@@ -1,0 +1,3920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>cars_ati.KMZ</name>
+	<visibility>0</visibility>
+	<Style id="point1">
+		<IconStyle>
+			<Icon>
+				<href>kml_symbol_dot_0_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>SICAR-001-FRANCISCO DE ASSIS</name>
+		<visibility>0</visibility>
+		<description>SICAR-001-FRANCISCO DE ASSIS</description>
+		<Placemark>
+			<name>SICAR001-Francisco de Assis</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR001-Francisco de Assis<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.25240818280001,-9.2194630287,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-002-MARIA-TOMAZ-DE-ALMEIDA</name>
+		<visibility>0</visibility>
+		<description>SICAR-002-MARIA-TOMAZ-DE-ALMEIDA</description>
+		<Placemark>
+			<name>SICAR002-Maria Tomaz de Almeida</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR002-Maria Tomaz de Almeida<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1645921827,-9.251234497800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-003-EMERSON-VALMIR-RODRGIGUES</name>
+		<visibility>0</visibility>
+		<description>SICAR-003-EMERSON-VALMIR-RODRGIGUES</description>
+		<Placemark>
+			<name>SICAR003-Emerson Valmir D Rodrigues-LTS38E40</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR003-Emerson Valmir D Rodrigues-LTS38E40<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.46538428789999,-9.076456439599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-004-SERAFIM-CARNEIRO-DOS-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-004-SERAFIM-CARNEIRO-DOS-SANTOS</description>
+		<Placemark>
+			<name>SICAR004-Serafim Carneiro dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR004-Serafim Carneiro dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.27385416169999,-9.217086635599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-005-AGNALDO-RODRIGUES-LT01</name>
+		<visibility>0</visibility>
+		<description>SICAR-005-AGNALDO-RODRIGUES-LT01</description>
+		<Placemark>
+			<name>SICAR005-Agnaldo Rodrigues</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR005-Agnaldo Rodrigues<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.31433733500001,-9.4616475441,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-006-JOÃO-NISVAL-LT34</name>
+		<visibility>0</visibility>
+		<description>SICAR-006-JOÃO-NISVAL-LT34</description>
+		<Placemark>
+			<name>SICAR006-João Nisval</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR006-João Nisval<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2771722563,-9.496230222099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-007-VALTAIR-DOS-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-007-VALTAIR-DOS-SANTOS</description>
+		<Placemark>
+			<name>SICAR007-Valtair dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR007-Valtair dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2909971487,-9.538069721099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-008-DORAVALINA-DE-OLIVEIRA-LT09</name>
+		<visibility>0</visibility>
+		<description>SICAR-008-DORAVALINA-DE-OLIVEIRA-LT09</description>
+		<Placemark>
+			<name>SICAR008-Dorvalina de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR008-Dorvalina de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.3051024756,-9.460697829000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-009-MARIA-NEVES-DA-FONSECA</name>
+		<visibility>0</visibility>
+		<description>SICAR-009-MARIA-NEVES-DA-FONSECA</description>
+		<Placemark>
+			<name>SICAR009-Maria Neves da Fonseca</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR009-Maria Neves da Fonseca<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.26932744150001,-9.462271229700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-010-ROSALINO-GARCIA-DA-SILVA-LT729</name>
+		<visibility>0</visibility>
+		<description>SICAR-010-ROSALINO-GARCIA-DA-SILVA-LT729</description>
+		<Placemark>
+			<name>SICAR010-Rosalino Garcia da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR010-Rosalino Garcia da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2253391169,-9.498959105599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-011-ROBERTO-DOS-SANTOS-LT20</name>
+		<visibility>0</visibility>
+		<description>SICAR-011-ROBERTO-DOS-SANTOS-LT20</description>
+		<Placemark>
+			<name>SICAR011-Roberto dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR011-Roberto dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.27023495739999,-9.498368323799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-012-FRANCISCO-VIEIRA-AMORIM-LTS321-281</name>
+		<visibility>0</visibility>
+		<description>SICAR-012-FRANCISCO-VIEIRA-AMORIM-LTS321-281</description>
+		<Placemark>
+			<name>SICAR012-Francisco Amorim</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR012-Francisco Amorim<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9742323869,-9.724442998200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-013-ARI-DIONIZIO-DA-SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-013-ARI-DIONIZIO-DA-SILVA</description>
+		<Placemark>
+			<name>SICAR013-Ari Dionizio da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR013-Ari Dionizio da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0126450222,-9.4982604753,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-014-GILMAR-BRUSCO-KONZEN</name>
+		<visibility>0</visibility>
+		<description>SICAR-014-GILMAR-BRUSCO-KONZEN</description>
+		<Placemark>
+			<name>SICAR014-Gilmar Konzen</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR014-Gilmar Konzen<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.98277774180001,-9.475683716700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-015-OSVALDO-FRANCISCO-DE-OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-015-OSVALDO-FRANCISCO-DE-OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR015-Osvaldo Francisco de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR015-Osvaldo Francisco de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2940866344,-9.700228109899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-016-ANGELO-MENDES</name>
+		<visibility>0</visibility>
+		<description>SICAR-016-ANGELO-MENDES</description>
+		<Placemark>
+			<name>SICAR016-Angelo Mendes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR016-Angelo Mendes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2952022139,-9.702925542999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-017-IZIEL-CUSTÓDIO-DE-SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-017-IZIEL-CUSTÓDIO-DE-SOUZA</description>
+		<Placemark>
+			<name>SICAR017-Iziel Custódio de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR017-Iziel Custódio de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.93756864659999,-9.7133344364,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-018-JAILSON-TEIXEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-018-JAILSON-TEIXEIRA</description>
+		<Placemark>
+			<name>SICAR018-Jailson Teixeira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR018-Jailson Teixeira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9405179997,-9.7116886626,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-019-MARIA-J-COIMBRA-RUBIM-LTS-653e654</name>
+		<visibility>0</visibility>
+		<description>SICAR-019-MARIA-J-COIMBRA-RUBIM-LTS-653e654</description>
+		<Placemark>
+			<name>SICAR019-Maria José Coimbra Rubim-LT653E654</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR019-Maria José Coimbra Rubim-LT653E654<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2120297502,-9.438822673900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-020-MARIA-J-COIMBRA-RUBIM-LT648</name>
+		<visibility>0</visibility>
+		<description>SICAR-020-MARIA-J-COIMBRA-RUBIM-LT648</description>
+		<Placemark>
+			<name>SICAR020-Maria José Coimbra Rubim-LT648</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR020-Maria José Coimbra Rubim-LT648<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2118985543,-9.440441265900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-021-VANDERLINO-MARINHO-DA-SILVA-LT666</name>
+		<visibility>0</visibility>
+		<description>SICAR-021-VANDERLINO-MARINHO-DA-SILVA-LT666</description>
+		<Placemark>
+			<name>SICAR021-Vanderlino Marinho da Silva-LT666</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR021-Vanderlino Marinho da Silva-LT666<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2390477091,-9.433654648099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-022-ALCIDES-DA-SILVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-022-ALCIDES-DA-SILVEIRA</description>
+		<Placemark>
+			<name>SICAR022-Alcides da Silveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR022-Alcides da Silveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.29637343889999,-9.497662178400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-023-JUCELINO SILVA DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-023-JUCELINO SILVA DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR023-Jucelino Silva dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR023-Jucelino Silva dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1839620505,-9.172742133,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-024-MANOEL-MESSIAS-LIMA</name>
+		<visibility>0</visibility>
+		<description>SICAR-024-MANOEL-MESSIAS-LIMA</description>
+		<Placemark>
+			<name>SICAR024-Manoel Messias Lima</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR024-Manoel Messias Lima<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2148618982,-9.094384621,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-025-CLÁUDIO-MARTINS</name>
+		<visibility>0</visibility>
+		<description>SICAR-025-CLÁUDIO-MARTINS</description>
+		<Placemark>
+			<name>SICAR025-Cláudio Martins</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR025-Cláudio Martins<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2558076958,-9.123240770800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-026-JACINTA-LAURENÇA-DE-PAULA</name>
+		<visibility>0</visibility>
+		<description>SICAR-026-JACINTA-LAURENÇA-DE-PAULA</description>
+		<Placemark>
+			<name>SICAR026-Jacinta Laurença de Paula</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR026-Jacinta Laurença de Paula<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.154303606,-9.291434715699999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-027-JOSÉ-LOURENÇO-DOS-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-027-JOSÉ-LOURENÇO-DOS-SANTOS</description>
+		<Placemark>
+			<name>SICAR027-José Lourenço dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR027-José Lourenço dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15437724540001,-9.293252711599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-028-IRENE-DOS-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-028-IRENE-DOS-SANTOS</description>
+		<Placemark>
+			<name>SICAR028-Irene dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR028-Irene dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2742007822,-9.2179818153,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-029-ROZILDA-DA-CONCEIÇÃO</name>
+		<visibility>0</visibility>
+		<description>SICAR-029-ROZILDA-DA-CONCEIÇÃO</description>
+		<Placemark>
+			<name>SICAR029-Rozilda da Conceição</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR029-Rozilda da Conceição<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1074865847,-9.330960082800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-030-RAIMUNDA-FARIAS-NASCIMENTO</name>
+		<visibility>0</visibility>
+		<description>SICAR-030-RAIMUNDA-FARIAS-NASCIMENTO</description>
+		<Placemark>
+			<name>SICAR030-Raimunda Farias de Alexandria Nascimento</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR030-Raimunda Farias de Alexandria Nascimento<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1624700962,-9.249553107900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-031-MARIA-DA-PAZ</name>
+		<visibility>0</visibility>
+		<description>SICAR-031-MARIA-DA-PAZ</description>
+		<Placemark>
+			<name>SICAR031-Maria da Paz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR031-Maria da Paz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.48435703879999,-9.067238308,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-032-ANTONIO-GOMES</name>
+		<visibility>0</visibility>
+		<description>SICAR-032-ANTONIO-GOMES</description>
+		<Placemark>
+			<name>SICAR032-Antônio-Gomes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR032-Antônio-Gomes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.48895620340001,-9.0701717297,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-033-JOSÉ-FELIX-DA-SILVA-LTS08e09</name>
+		<visibility>0</visibility>
+		<description>SICAR-033-JOSÉ-FELIX-DA-SILVA-LTS08e09</description>
+		<Placemark>
+			<name>SICAR033-José Felix da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR033-José Felix da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1851263391,-9.2222099988,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-034-MISAURO-CONCEIÇÃO-DE-OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-034-MISAURO-CONCEIÇÃO-DE-OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR034-Misauro Conceição de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR034-Misauro Conceição de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1476018543,-9.3127292698,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-035-CAMILA-CABRAL-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-035-CAMILA-CABRAL-SANTOS</description>
+		<Placemark>
+			<name>SICAR035-Camila Cabral Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR035-Camila Cabral Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2052180043,-9.096716779499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-036-LUÍSA-CABRAL-SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-036-LUÍSA-CABRAL-SANTOS</description>
+		<Placemark>
+			<name>SICAR036-Luísa Cabral Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR036-Luísa Cabral Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20131398499999,-9.0968094058,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-037-RENATA-CARDOSO-MENDES</name>
+		<visibility>0</visibility>
+		<description>SICAR-037-RENATA-CARDOSO-MENDES</description>
+		<Placemark>
+			<name>SICAR037-Renata Cardoso Mendes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR037-Renata Cardoso Mendes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2939411496,-9.112312814799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-038-ANTÔNIO-TWARDOWSKI-LT15</name>
+		<visibility>0</visibility>
+		<description>SICAR-038-ANTÔNIO-TWARDOWSKI-LT15</description>
+		<Placemark>
+			<name>SICAR038-Antônio Twardowski LT15</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR038-Antônio Twardowski LT15<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1435164533,-9.253369108999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-039-MAURO-TOMAZ-DE-LIMA</name>
+		<visibility>0</visibility>
+		<description>SICAR-039-MAURO-TOMAZ-DE-LIMA</description>
+		<Placemark>
+			<name>SICAR039-Mauro-Tomaz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR039-Mauro-Tomaz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.5066762189,-9.085541707599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-040-MAURÍCIO-TOMAZ-DE-LIMA</name>
+		<visibility>0</visibility>
+		<description>SICAR-040-MAURÍCIO-TOMAZ-DE-LIMA</description>
+		<Placemark>
+			<name>SICAR040-Mauricio-Tomaz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR040-Mauricio-Tomaz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.5061292908,-9.084873157700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-041-AGENOR-SANTOS-OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-041-AGENOR-SANTOS-OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR041-Agenor Santos Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR041-Agenor Santos Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4610488347,-9.070759715399999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-042-EMERSON-MARINHUK</name>
+		<visibility>0</visibility>
+		<description>SICAR-042-EMERSON-MARINHUK</description>
+		<Placemark>
+			<name>SICAR042-Emerson-Marinhuk</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR042-Emerson-Marinhuk<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.492126878,-9.073152238900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-043-VERA-LUCIA-VITÓRIO</name>
+		<visibility>0</visibility>
+		<description>SICAR-043-VERA-LUCIA-VITÓRIO</description>
+		<Placemark>
+			<name>SICAR043-Vera Lucia Vitório</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR043-Vera Lucia Vitório<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.281738853,-9.2185186873,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-044-JOSÉ VIEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-044-JOSÉ VIEIRA</description>
+		<Placemark>
+			<name>SICAR044-José Vieira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR044-José Vieira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.63826039530001,-9.410557927799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-045-CLÓVIS CORRÊA DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-045-CLÓVIS CORRÊA DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR045-Clóvis Corrêa de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR045-Clóvis Corrêa de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6439488835,-9.4235881036,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-046-ANTERO FERREIRA DE SOUZA FILHO</name>
+		<visibility>0</visibility>
+		<description>SICAR-046-ANTERO FERREIRA DE SOUZA FILHO</description>
+		<Placemark>
+			<name>SICAR046-Antero Ferreira de Souza Filho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR046-Antero Ferreira de Souza Filho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.634716419,-9.385283339200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-047-DANILO REMÉDIS SARAIVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-047-DANILO REMÉDIS SARAIVA</description>
+		<Placemark>
+			<name>SICAR047-Danilo Remédis Saraiva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR047-Danilo Remédis Saraiva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6430686362,-9.384830582799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-048-FRANCISCO PEREIRA SARAIVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-048-FRANCISCO PEREIRA SARAIVA</description>
+		<Placemark>
+			<name>SICAR048-Francisco Pereira Saraiva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR048-Francisco Pereira Saraiva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64311945170001,-9.3885751524,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-049-VALDEMIR PEREIRA SARAIVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-049-VALDEMIR PEREIRA SARAIVA</description>
+		<Placemark>
+			<name>SICAR049-Valdemir Pereira Saraiva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR049-Valdemir Pereira Saraiva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6427110657,-9.387145672899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-050-SILÉCIO BRITO</name>
+		<visibility>0</visibility>
+		<description>SICAR-050-SILÉCIO BRITO</description>
+		<Placemark>
+			<name>SICAR050-Silécio Brito</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR050-Silécio Brito<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6437110471,-9.406791825299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-051-ANTÔNIO MARCELINO DE BRITO</name>
+		<visibility>0</visibility>
+		<description>SICAR-051-ANTÔNIO MARCELINO DE BRITO</description>
+		<Placemark>
+			<name>SICAR051-Antônio Marcelino de Brito</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR051-Antônio Marcelino de Brito<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6437133519,-9.404539692,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-052-OSVALDO ESTEVAM DE ALMEIDA</name>
+		<visibility>0</visibility>
+		<description>SICAR-052-OSVALDO ESTEVAM DE ALMEIDA</description>
+		<Placemark>
+			<name>SICAR052-Osvaldo Estevam de Almeida</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR052-Osvaldo Estevam de Almeida<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6428677956,-9.456211252699999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-053-ENES DE ARAÚJO LIMA</name>
+		<visibility>0</visibility>
+		<description>SICAR-053-ENES DE ARAÚJO LIMA</description>
+		<Placemark>
+			<name>SICAR053-Enes de Araújo Lima</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR053-Enes de Araújo Lima<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67803731440001,-9.468726969,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-054-JOSÉ CARLOS DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-054-JOSÉ CARLOS DA SILVA</description>
+		<Placemark>
+			<name>SICAR054-José Carlos da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR054-José Carlos da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6429945097,-9.4038515672,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-055-ADERLANDE PÊGO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-055-ADERLANDE PÊGO DA SILVA</description>
+		<Placemark>
+			<name>SICAR055-Aderlande Pêgo da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR055-Aderlande Pêgo da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6424804115,-9.425504095499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-056-GERALDO PÊGO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-056-GERALDO PÊGO DA SILVA</description>
+		<Placemark>
+			<name>SICAR056-Geraldo Pêgo da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR056-Geraldo Pêgo da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.641671646,-9.423649108499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-057-VALTER JOSÉ DAHM-lt15</name>
+		<visibility>0</visibility>
+		<description>SICAR-057-VALTER JOSÉ DAHM-lt15</description>
+		<Placemark>
+			<name>SICAR057-Valter José Dahm</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR057-Valter José Dahm<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67025144099999,-9.494099182199999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-058-ILANI WAGENTANTZ</name>
+		<visibility>0</visibility>
+		<description>SICAR-058-ILANI WAGENTANTZ</description>
+		<Placemark>
+			<name>SICAR058-Ilani Wagentantz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR058-Ilani Wagentantz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.66540654029999,-9.4921137942,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-059-VALTER JOSÉ DAHM LT38</name>
+		<visibility>0</visibility>
+		<description>SICAR-059-VALTER JOSÉ DAHM LT38</description>
+		<Placemark>
+			<name>SICAR059-Valter José Dahm LT38</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR059-Valter José Dahm LT38<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6606359891,-9.507204785500001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-060-JORGE CLÁUDIO MACIEL</name>
+		<visibility>0</visibility>
+		<description>SICAR-060-JORGE CLÁUDIO MACIEL</description>
+		<Placemark>
+			<name>SICAR060-Jorge Cláudio Maciel</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR060-Jorge Cláudio Maciel<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64324722140001,-9.4504501668,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-061-ERELINDES CARMO RIBEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-061-ERELINDES CARMO RIBEIRO</description>
+		<Placemark>
+			<name>SICAR061-Erenildes Carmo Ribeiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR061-Erenildes Carmo Ribeiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6818723952,-9.4689384966,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-062-OSÉIAS DE BARROS NUNES</name>
+		<visibility>0</visibility>
+		<description>SICAR-062-OSÉIAS DE BARROS NUNES</description>
+		<Placemark>
+			<name>SICAR062-Oséias de Barros Nunes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR062-Oséias de Barros Nunes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6411825453,-9.4474000021,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-063-ARACILDO MELO AMORIM</name>
+		<visibility>0</visibility>
+		<description>SICAR-063-ARACILDO MELO AMORIM</description>
+		<Placemark>
+			<name>SICAR063-Aracildo Melo Amorim</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR063-Aracildo Melo Amorim<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6803537679,-9.416568102499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-064-JOSÉ VENÂNCIO DE CASTRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-064-JOSÉ VENÂNCIO DE CASTRO</description>
+		<Placemark>
+			<name>SICAR064-José Venâncio de Castro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR064-José Venâncio de Castro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6805722543,-9.5055231752,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-065-ADILSON MANOEL DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-065-ADILSON MANOEL DE SOUZA</description>
+		<Placemark>
+			<name>SICAR065-Adilson Manoel de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR065-Adilson Manoel de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6792306225,-9.488445541700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-066-ERISVALDO ALVES DE SOUSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-066-ERISVALDO ALVES DE SOUSA</description>
+		<Placemark>
+			<name>SICAR066-Erisvaldo Alves de Sousa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR066-Erisvaldo Alves de Sousa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6775037172,-9.444993120399999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-067-GERALDO ROCHA DE CASTRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-067-GERALDO ROCHA DE CASTRO</description>
+		<Placemark>
+			<name>SICAR067-Geraldo Rocha de Castro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR067-Geraldo Rocha de Castro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6820936716,-9.505633098900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-068-RICARDO APARECIDO DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-068-RICARDO APARECIDO DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR068-Ricardo Aparecido de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR068-Ricardo Aparecido de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6809467807,-9.504465287,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-069-GENAIR ROCHA DE CASTRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-069-GENAIR ROCHA DE CASTRO</description>
+		<Placemark>
+			<name>SICAR069-Genair Rocha de Castro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR069-Genair Rocha de Castro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.685154872,-9.505699183100001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-070-GILSON ROCHA DE CASTRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-070-GILSON ROCHA DE CASTRO</description>
+		<Placemark>
+			<name>SICAR070-Gilson Rocha de Castro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR070-Gilson Rocha de Castro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.68443545969999,-9.5053186566,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-071-ISAC FRANCISCO NUNES</name>
+		<visibility>0</visibility>
+		<description>SICAR-071-ISAC FRANCISCO NUNES</description>
+		<Placemark>
+			<name>SICAR071-Isac Francisco Nunes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR071-Isac Francisco Nunes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.641865115,-9.403832334100001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-072-VALDEMIR FIOROTTI</name>
+		<visibility>0</visibility>
+		<description>SICAR-072-VALDEMIR FIOROTTI</description>
+		<Placemark>
+			<name>SICAR072-Valdemir Fiorotti</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR072-Valdemir Fiorotti<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5954867873,-9.419149145800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-073-NILSON PEDRO ROSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-073-NILSON PEDRO ROSA</description>
+		<Placemark>
+			<name>SICAR073-Nilson Pedro Rosa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR073-Nilson Pedro Rosa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6799854168,-9.4800979623,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-074-NILSON BORGES DE FARIA</name>
+		<visibility>0</visibility>
+		<description>SICAR-074-NILSON BORGES DE FARIA</description>
+		<Placemark>
+			<name>SICAR074-Nilson Borges de Faria</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR074-Nilson Borges de Faria<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5920205713,-9.477537395700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-075-JOSÉ SANTANA DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-075-JOSÉ SANTANA DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR075-José Santana dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR075-José Santana dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6208264791,-9.4360999193,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-076-ANTONIO BARBOSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-076-ANTONIO BARBOSA</description>
+		<Placemark>
+			<name>SICAR076-Antonio Barbosa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR076-Antonio Barbosa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.68072781600001,-9.4752597159,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-077-CÍSERO JOSÉ BONFIM DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-077-CÍSERO JOSÉ BONFIM DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR077-Císero José Bonfim de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR077-Císero José Bonfim de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5755332218,-9.303923680700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-078-JOVENIL FARIA</name>
+		<visibility>0</visibility>
+		<description>SICAR-078-JOVENIL FARIA</description>
+		<Placemark>
+			<name>SICAR078-Jovenil Faria</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR078-Jovenil Faria<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5705798147,-9.3273603845,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-079-LAÉCIO PEREIRA DE MELO</name>
+		<visibility>0</visibility>
+		<description>SICAR-079-LAÉCIO PEREIRA DE MELO</description>
+		<Placemark>
+			<name>SICAR079-Laécio Pereira de Melo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR079-Laécio Pereira de Melo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5297416306,-9.2971822653,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-080-SIRLEY DE ANDRADE GOTARDO</name>
+		<visibility>0</visibility>
+		<description>SICAR-080-SIRLEY DE ANDRADE GOTARDO</description>
+		<Placemark>
+			<name>SICAR080-Sirley de Andrade Gotardo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR080-Sirley de Andrade Gotardo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5984425254,-9.493752798699999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-081-GERALDO GOTARDO LT82</name>
+		<visibility>0</visibility>
+		<description>SICAR-081-GERALDO GOTARDO LT82</description>
+		<Placemark>
+			<name>SICAR081-Geraldo Gotardo LT82</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR081-Geraldo Gotardo LT82<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5834942838,-9.4676980225,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-082-VALDEMAR PEREIRA DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-082-VALDEMAR PEREIRA DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR082-Valdemar Pereira dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR082-Valdemar Pereira dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5314063471,-9.312026725600001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-083-HERMIRO PEDRO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-083-HERMIRO PEDRO DA SILVA</description>
+		<Placemark>
+			<name>SICAR083-Hermiro Pedro da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR083-Hermiro Pedro da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6619758698,-9.5066181797,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-084-ALVINO NUNES ROZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-084-ALVINO NUNES ROZA</description>
+		<Placemark>
+			<name>SICAR084-Alvino Nunes Roza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR084-Alvino Nunes Roza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.60009352559999,-9.4841673763,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-085-ALVINO NUNES ROZA LTS19E20</name>
+		<visibility>0</visibility>
+		<description>SICAR-085-ALVINO NUNES ROZA LTS19E20</description>
+		<Placemark>
+			<name>SICAR085-Alvino Nunes Roza LTS19e20</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR085-Alvino Nunes Roza LTS19e20<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6218841457,-9.4709668274,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-086-RONALDO SILVA VIANA LT51-A</name>
+		<visibility>0</visibility>
+		<description>SICAR-086-RONALDO SILVA VIANA LT51-A</description>
+		<Placemark>
+			<name>SICAR086-Ronaldo Silva Viana</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR086-Ronaldo Silva Viana<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64049390700001,-9.351166622899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-087-ERONEIDE FRANCISCA DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-087-ERONEIDE FRANCISCA DA SILVA</description>
+		<Placemark>
+			<name>SICAR087-Eroneide Francisca da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR087-Eroneide Francisca da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.624577126,-9.480187690299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-088-JOSÉ DE SOUZA ARAÚJO</name>
+		<visibility>0</visibility>
+		<description>SICAR-088-JOSÉ DE SOUZA ARAÚJO</description>
+		<Placemark>
+			<name>SICAR088-José de Souza Araújo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR088-José de Souza Araújo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6214608095,-9.430773282400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-089-ADRIANO VIEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-089-ADRIANO VIEIRA</description>
+		<Placemark>
+			<name>SICAR089-Adriano Vieira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR089-Adriano Vieira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.8061366984,-9.5260837258,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-090-MIGUEL BARBOSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-090-MIGUEL BARBOSA</description>
+		<Placemark>
+			<name>SICAR090-Miguel Barbosa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR090-Miguel Barbosa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6538309376,-9.4973394079,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-091-DAMÁCIO RODRIGUES DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-091-DAMÁCIO RODRIGUES DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR091-Damácio Rodrigues dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR091-Damácio Rodrigues dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6509078602,-9.495916487700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-092-SÉRGIO CAMPO BRITO LTS 70B E 71B</name>
+		<visibility>0</visibility>
+		<description>SICAR-092-SÉRGIO CAMPO BRITO LTS 70B E 71B</description>
+		<Placemark>
+			<name>SICAR092-Sérgio Campo Brito LTs 70B e 71B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR092-Sérgio Campo Brito LTs 70B e 71B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.66883704230001,-9.372346740599999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-093-ANTÔNIO FRANCISCO DOS SANTOS REIS</name>
+		<visibility>0</visibility>
+		<description>SICAR-093-ANTÔNIO FRANCISCO DOS SANTOS REIS</description>
+		<Placemark>
+			<name>SICAR093-Antônio Fco dos Santos Reis</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR093-Antônio Fco dos Santos Reis<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3976982014,-9.177997153,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-094-JURACY FRANCISCO DE SOUSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-094-JURACY FRANCISCO DE SOUSA</description>
+		<Placemark>
+			<name>SICAR094-Juracy Francisco de Sousa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR094-Juracy Francisco de Sousa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2550420428,-9.269748078099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-095-MARLUCE MARIA DE MOURA</name>
+		<visibility>0</visibility>
+		<description>SICAR-095-MARLUCE MARIA DE MOURA</description>
+		<Placemark>
+			<name>SICAR095-Maria Marluce de Moura</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR095-Maria Marluce de Moura<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2626667996,-9.0691018395,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-096-ELILDA GOMES DA SILVA RAMALHO</name>
+		<visibility>0</visibility>
+		<description>SICAR-096-ELILDA GOMES DA SILVA RAMALHO</description>
+		<Placemark>
+			<name>SICAR096-Elilda Gomes da Silva Ramalho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR096-Elilda Gomes da Silva Ramalho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1179773664,-9.331463273600001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-097-ELIAS LOURENÇO QUIRINO LT52</name>
+		<visibility>0</visibility>
+		<description>SICAR-097-ELIAS LOURENÇO QUIRINO LT52</description>
+		<Placemark>
+			<name>SICAR097-Elias Lourenço Quirino</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR097-Elias Lourenço Quirino<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1280788736,-9.288197952299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-098-ELIAS LOURENÇO QUIRINO LT09</name>
+		<visibility>0</visibility>
+		<description>SICAR-098-ELIAS LOURENÇO QUIRINO LT09</description>
+		<Placemark>
+			<name>SICAR098-Elias Lourenço Quirino LT09</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR098-Elias Lourenço Quirino LT09<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1010521772,-9.2809163985,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-099-ADEMIR GUIRALDI RODRIGUES</name>
+		<visibility>0</visibility>
+		<description>SICAR-099-ADEMIR GUIRALDI RODRIGUES</description>
+		<Placemark>
+			<name>SICAR099-Ademir Guiraldi Rodrigues</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR099-Ademir Guiraldi Rodrigues<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15471551099999,-9.200425298900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-100-NEIL SOARES PINHEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-100-NEIL SOARES PINHEIRO</description>
+		<Placemark>
+			<name>SICAR100-Neil Soares Pinheiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR100-Neil Soares Pinheiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1709202273,-9.226603990999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-101-SADI CAMARGO</name>
+		<visibility>0</visibility>
+		<description>SICAR-101-SADI CAMARGO</description>
+		<Placemark>
+			<name>SICAR101-Sadi Carmargo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR101-Sadi Carmargo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15952549830001,-9.1836781912,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-102-EVITON CORDEIRO MENDONZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-102-EVITON CORDEIRO MENDONZA</description>
+		<Placemark>
+			<name>SICAR102-Eviton Cordeiro Mendonza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR102-Eviton Cordeiro Mendonza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2876875577,-9.130265762400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-103-VILSO NOGUEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-103-VILSO NOGUEIRA</description>
+		<Placemark>
+			<name>SICAR103-Vilso Nogueira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR103-Vilso Nogueira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.34924564999999,-9.0750593009,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-104-MARIA ZULEIDE DE ALMEIDA COSTA</name>
+		<visibility>0</visibility>
+		<description>SICAR-104-MARIA ZULEIDE DE ALMEIDA COSTA</description>
+		<Placemark>
+			<name>SICAR104-Maria Zuleide de Almeida Costa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR104-Maria Zuleide de Almeida Costa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1937763767,-9.3679546091,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-105-MOYSES VIEIRA MACHADO</name>
+		<visibility>0</visibility>
+		<description>SICAR-105-MOYSES VIEIRA MACHADO</description>
+		<Placemark>
+			<name>SICAR105-Moyes Vieira Machado</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR105-Moyes Vieira Machado<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.28161347029999,-9.255512299099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-106-ERCÍLIO FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-106-ERCÍLIO FERREIRA</description>
+		<Placemark>
+			<name>SICAR106-Ercílio Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR106-Ercílio Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1616232544,-9.1993118343,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-107-ALTAMIRANDA MONTEIRO DA SILVA-A1</name>
+		<visibility>0</visibility>
+		<description>SICAR-107-ALTAMIRANDA MONTEIRO DA SILVA-A1</description>
+		<Placemark>
+			<name>SICAR107-Altamiranda Monteiro da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR107-Altamiranda Monteiro da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.17999162170001,-9.2947783554,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-108-ALTAMIRANDA MONTEIRO DA SILVA-A2</name>
+		<visibility>0</visibility>
+		<description>SICAR-108-ALTAMIRANDA MONTEIRO DA SILVA-A2</description>
+		<Placemark>
+			<name>SICAR108-Altamiranda Monteiro da Silva-A2</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR108-Altamiranda Monteiro da Silva-A2<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20263103440001,-9.2845454985,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-109-ALTAMIRANDA MONTEIRO DA SILVA-A3</name>
+		<visibility>0</visibility>
+		<description>SICAR-109-ALTAMIRANDA MONTEIRO DA SILVA-A3</description>
+		<Placemark>
+			<name>SICAR109-Altamiranda Monteiro da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR109-Altamiranda Monteiro da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2060533611,-9.282445126900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-110-CÉLIO DOMINGOS DE MELLERO</name>
+		<visibility>0</visibility>
+		<description>SICAR-110-CÉLIO DOMINGOS DE MELLERO</description>
+		<Placemark>
+			<name>SICAR110-Célio Domingos de Mellero</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR110-Célio Domingos de Mellero<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.13638579919999,-9.360025132300001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-111-JOÃO FLAUSINO DOS SANTOS FILHO</name>
+		<visibility>0</visibility>
+		<description>SICAR-111-JOÃO FLAUSINO DOS SANTOS FILHO</description>
+		<Placemark>
+			<name>SICAR111-João Flausino dos Santos Filho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR111-João Flausino dos Santos Filho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3047535767,-8.981166766999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-112-MARIA DE FÁTIMA DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-112-MARIA DE FÁTIMA DA SILVA</description>
+		<Placemark>
+			<name>SICAR112-Maria de Fátima da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR112-Maria de Fátima da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2086085453,-9.3166549086,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-113-DEJAIR GUIRALDI RODRIGUES</name>
+		<visibility>0</visibility>
+		<description>SICAR-113-DEJAIR GUIRALDI RODRIGUES</description>
+		<Placemark>
+			<name>SICAR113-Dejair Guiraldi Rodrigues</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR113-Dejair Guiraldi Rodrigues<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1554451738,-9.2008815693,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-114-VILMA MIRANDA DE QUEIROZ</name>
+		<visibility>0</visibility>
+		<description>SICAR-114-VILMA MIRANDA DE QUEIROZ</description>
+		<Placemark>
+			<name>SICAR114-Vilma Miranda de Queiroz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR114-Vilma Miranda de Queiroz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1666366788,-9.2008431655,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-115-JOSÉ FRANCISCO DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-115-JOSÉ FRANCISCO DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR115-José Francisco de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR115-José Francisco de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15765228,-9.2867118083,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-116-AMÉLIA DE OLIVEIRA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-116-AMÉLIA DE OLIVEIRA SILVA</description>
+		<Placemark>
+			<name>SICAR116-Amélia de Oliveira Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR116-Amélia de Oliveira Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2091363913,-9.308995833299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-117-JOSÉ VIANA</name>
+		<visibility>0</visibility>
+		<description>SICAR-117-JOSÉ VIANA</description>
+		<Placemark>
+			<name>SICAR117-José Viana</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR117-José Viana<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1598443434,-9.1969670179,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-118-JOSELITO FELICIANO</name>
+		<visibility>0</visibility>
+		<description>SICAR-118-JOSELITO FELICIANO</description>
+		<Placemark>
+			<name>SICAR118-Joselito Feliciano</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR118-Joselito Feliciano<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15837331219999,-9.200026859799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-119-MARIA ALICE E FCO CHAGAS SILVINO</name>
+		<visibility>0</visibility>
+		<description>SICAR-119-MARIA ALICE E FCO CHAGAS SILVINO</description>
+		<Placemark>
+			<name>SICAR119-Francisco das Chagas Silvino</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR119-Francisco das Chagas Silvino<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.206061249,-9.117361884499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-120-UBIRATAN FERREIRA DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-120-UBIRATAN FERREIRA DE SOUZA</description>
+		<Placemark>
+			<name>SICAR120-Ubiratan Ferreira de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR120-Ubiratan Ferreira de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1613497059,-9.200133279499999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-121-CÉLIO ALEXANDRE DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-121-CÉLIO ALEXANDRE DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR121-Célio Alexandre dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR121-Célio Alexandre dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1627085418,-9.2018985767,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-122-JOÃO ELIANDRO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-122-JOÃO ELIANDRO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR122-João Eliandro de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR122-João Eliandro de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.17144533730001,-9.1493509396,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-123-ALTAMIRANDA MONTEIRO DA SILVA-A4</name>
+		<visibility>0</visibility>
+		<description>SICAR-123-ALTAMIRANDA MONTEIRO DA SILVA-A4</description>
+		<Placemark>
+			<name>SICAR123-Altamiranda Monteiro da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR123-Altamiranda Monteiro da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1986898356,-9.286944608300001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-124-PAULO CÉSAR DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-124-PAULO CÉSAR DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR124-Paulo César da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR124-Paulo César da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1968395583,-9.329323775300001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-125-RAMILDE ZEGARRA AGUIAR</name>
+		<visibility>0</visibility>
+		<description>SICAR-125-RAMILDE ZEGARRA AGUIAR</description>
+		<Placemark>
+			<name>SICAR125-Ramilde Zegarra Aguiar</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR125-Ramilde Zegarra Aguiar<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.17018758010001,-9.2041775613,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-126-AURELINO MANOEL DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-126-AURELINO MANOEL DE SOUZA</description>
+		<Placemark>
+			<name>SICAR126-Aurelino Manoel de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR126-Aurelino Manoel de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67773277500001,-9.443804832,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-127-VALCENI DORÉ GONÇALVES</name>
+		<visibility>0</visibility>
+		<description>SICAR-127-VALCENI DORÉ GONÇALVES</description>
+		<Placemark>
+			<name>SICAR127-Valceni Doré Gonçalves</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR127-Valceni Doré Gonçalves<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5823454466,-9.431782506799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-128-JOSÉ MARIA DE AGUIAR</name>
+		<visibility>0</visibility>
+		<description>SICAR-128-JOSÉ MARIA DE AGUIAR</description>
+		<Placemark>
+			<name>SICAR128-José Maria de Aguiar</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR128-José Maria de Aguiar<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3401499542,-9.000370134200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-129-LUCILENE DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-129-LUCILENE DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR129-Lucilene da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR129-Lucilene da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2103864833,-9.309840466600001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-130-MARLENE PACÍFICO</name>
+		<visibility>0</visibility>
+		<description>SICAR-130-MARLENE PACÍFICO</description>
+		<Placemark>
+			<name>SICAR130-Marlene Pacífico</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR130-Marlene Pacífico<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1626210511,-9.1985025472,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-131-IZABEL BELEZA AMORIM</name>
+		<visibility>0</visibility>
+		<description>SICAR-131-IZABEL BELEZA AMORIM</description>
+		<Placemark>
+			<name>SICAR131-Izabel Beleza Amorim</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR131-Izabel Beleza Amorim<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.16592149,-9.2031707463,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-132-LIDIA MARIA REIS BOTELHO</name>
+		<visibility>0</visibility>
+		<description>SICAR-132-LIDIA MARIA REIS BOTELHO</description>
+		<Placemark>
+			<name>SICAR132-Lídia Maria Reis Botelho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR132-Lídia Maria Reis Botelho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2096798588,-9.3140484098,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-133-JOÃO ALBERI CAVALCANTE PONTE</name>
+		<visibility>0</visibility>
+		<description>SICAR-133-JOÃO ALBERI CAVALCANTE PONTE</description>
+		<Placemark>
+			<name>SICAR133-João Alberi Cavalcante Pontes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR133-João Alberi Cavalcante Pontes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1507649484,-9.201800268,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-134-LEILTO DE OLIVEIRA VIOTO</name>
+		<visibility>0</visibility>
+		<description>SICAR-134-LEILTO DE OLIVEIRA VIOTO</description>
+		<Placemark>
+			<name>SICAR134-Leilto de Oliveira Vioto</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR134-Leilto de Oliveira Vioto<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1651106575,-9.2033300962,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-135-SILVANO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-135-SILVANO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR135-Silvano de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR135-Silvano de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3162555428,-9.291914866700001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-136-MARIO SERGIO BARBOSA DA CUNHA</name>
+		<visibility>0</visibility>
+		<description>SICAR-136-MARIO SERGIO BARBOSA DA CUNHA</description>
+		<Placemark>
+			<name>SICAR136-Mário Sérgio Barbosa da Cunha</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR136-Mário Sérgio Barbosa da Cunha<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.338997274,-9.0045589505,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-137-MARIA APARECIDA PEREIRA DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-137-MARIA APARECIDA PEREIRA DA SILVA</description>
+		<Placemark>
+			<name>SICAR137-Maria Aparecida Pereira da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR137-Maria Aparecida Pereira da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3372665269,-9.006461680799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-138-ANTONIO NAZARENO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-138-ANTONIO NAZARENO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR138-Antônio Nazareno de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR138-Antônio Nazareno de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.166275627,-9.2036093455,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-139-JUCELINO RODRIGUES VIEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-139-JUCELINO RODRIGUES VIEIRA</description>
+		<Placemark>
+			<name>SICAR139-Jucelino Rodrigues Vieira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR139-Jucelino Rodrigues Vieira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1666335315,-9.201524113,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-140-PEDRO ALVES DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-140-PEDRO ALVES DA SILVA</description>
+		<Placemark>
+			<name>SICAR140-Pedro Alves da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR140-Pedro Alves da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.12585352110001,-9.2860676736,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-141-VALDECY DE JESUS SILVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-141-VALDECY DE JESUS SILVEIRA</description>
+		<Placemark>
+			<name>SICAR141-Valdecy de Jesus Silveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR141-Valdecy de Jesus Silveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1698121,-9.2081811573,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-142-IZAIAS MARINHUK</name>
+		<visibility>0</visibility>
+		<description>SICAR-142-IZAIAS MARINHUK</description>
+		<Placemark>
+			<name>SICAR142-Izaias Marinhuk</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR142-Izaias Marinhuk<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4937583028,-9.074727407899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-143-KLEBSON APOLIANDO DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-143-KLEBSON APOLIANDO DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR143-Klebson Apoliano da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR143-Klebson Apoliano da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.21333832219999,-9.1188886375,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-144-SÉRGIO LINO RENGER</name>
+		<visibility>0</visibility>
+		<description>SICAR-144-SÉRGIO LINO RENGER</description>
+		<Placemark>
+			<name>SICAR144-Sérgio Lino Renger</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR144-Sérgio Lino Renger<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1628272699,-9.1976495307,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-145-ANTÔNIO RIBEIRO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-145-ANTÔNIO RIBEIRO DA SILVA</description>
+		<Placemark>
+			<name>SICAR145-Antônio Ribeiro da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR145-Antônio Ribeiro da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2748161933,-9.096803596899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-146-LEANDRO DOS SANTOS DOMINGUES</name>
+		<visibility>0</visibility>
+		<description>SICAR-146-LEANDRO DOS SANTOS DOMINGUES</description>
+		<Placemark>
+			<name>SICAR146-Leandro dos Santos Domingues</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR146-Leandro dos Santos Domingues<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2179319736,-9.1174964595,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-147-DILMAR CAVALHEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-147-DILMAR CAVALHEIRO</description>
+		<Placemark>
+			<name>SICAR147-Dilmar Cavalheiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR147-Dilmar Cavalheiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1992757356,-9.13257263,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-148-ESVETLANA RODRIGUES DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-148-ESVETLANA RODRIGUES DA SILVA</description>
+		<Placemark>
+			<name>SICAR148-Esvetlana Rodrigues da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR148-Esvetlana Rodrigues da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2055304927,-9.199731716400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-149-ONOFRE GONÇALVES</name>
+		<visibility>0</visibility>
+		<description>SICAR-149-ONOFRE GONÇALVES</description>
+		<Placemark>
+			<name>SICAR149-Onofre Gonçalves</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR149-Onofre Gonçalves<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2740166523,-9.098018700800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-150-ISAQUE DANTAS</name>
+		<visibility>0</visibility>
+		<description>SICAR-150-ISAQUE DANTAS</description>
+		<Placemark>
+			<name>SICAR150-Isaque Dantas</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR150-Isaque Dantas<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2199431237,-9.1625425942,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-151-ROSALINA FERREIRA DE ALMEIDA</name>
+		<visibility>0</visibility>
+		<description>SICAR-151-ROSALINA FERREIRA DE ALMEIDA</description>
+		<Placemark>
+			<name>SICAR151-Rosalina Ferreira de Almeida</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR151-Rosalina Ferreira de Almeida<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.16544332130001,-9.200555939099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-152-AGENOR PECHEJOSVSKI</name>
+		<visibility>0</visibility>
+		<description>SICAR-152-AGENOR PECHEJOSVSKI</description>
+		<Placemark>
+			<name>SICAR152-Agenor Pechejovski</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR152-Agenor Pechejovski<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1724568576,-9.2070903314,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-153-RAQUEL DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-153-RAQUEL DA SILVA</description>
+		<Placemark>
+			<name>SICAR153-Raquel da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR153-Raquel da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.17011814760001,-9.2082804483,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-154-SIDINEY RIBEIRO CAMPOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-154-SIDINEY RIBEIRO CAMPOS</description>
+		<Placemark>
+			<name>SICAR154-Sidney Ribeiro Campos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR154-Sidney Ribeiro Campos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.170390649,-9.208594504400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-155-IVONE DE ARAÚJO SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-155-IVONE DE ARAÚJO SANTOS</description>
+		<Placemark>
+			<name>SICAR155-Ivone de Araujo Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR155-Ivone de Araujo Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2808394776,-9.0926414239,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-156-RAIMUNDO FAUSTINO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-156-RAIMUNDO FAUSTINO DA SILVA</description>
+		<Placemark>
+			<name>SICAR156-Raimundo Faustino da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR156-Raimundo Faustino da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2789932924,-9.093253197999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-157-OSMARINO BARBOSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-157-OSMARINO BARBOSA</description>
+		<Placemark>
+			<name>SICAR157-Osmarino Barbosa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR157-Osmarino Barbosa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.27701897750001,-9.100579397200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-158-NAIR FERREIRA DE MORAES</name>
+		<visibility>0</visibility>
+		<description>SICAR-158-NAIR FERREIRA DE MORAES</description>
+		<Placemark>
+			<name>SICAR158-Nair Ferreira de Moraes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR158-Nair Ferreira de Moraes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2758028658,-9.1010610639,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-159-LUÍS CARMO PANTOJA FARIAS</name>
+		<visibility>0</visibility>
+		<description>SICAR-159-LUÍS CARMO PANTOJA FARIAS</description>
+		<Placemark>
+			<name>SICAR159-Luís Carmo Pantoja Farias</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR159-Luís Carmo Pantoja Farias<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2764473469,-9.1026425659,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-160-MARIA NAZARÉ SOARES</name>
+		<visibility>0</visibility>
+		<description>SICAR-160-MARIA NAZARÉ SOARES</description>
+		<Placemark>
+			<name>SICAR160-Maria Nazaré Soares</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR160-Maria Nazaré Soares<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2761590983,-9.101430243899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-161-JULIANA AUGUSTA GARCIA COSTA</name>
+		<visibility>0</visibility>
+		<description>SICAR-161-JULIANA AUGUSTA GARCIA COSTA</description>
+		<Placemark>
+			<name>SICAR161-Juliana Augusta Garcia Costa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR161-Juliana Augusta Garcia Costa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3053231082,-9.446595931299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-162-JAIR CONCEIÇÃO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-162-JAIR CONCEIÇÃO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR162-Jair Conceição</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR162-Jair Conceição<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20954018099999,-9.279621456799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-163-JOÃO AUGUSTO COSTA</name>
+		<visibility>0</visibility>
+		<description>SICAR-163-JOÃO AUGUSTO COSTA</description>
+		<Placemark>
+			<name>SICAR163-João Augusto Costa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR163-João Augusto Costa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.26063321670001,-9.439152932900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-164-JOSÉ FLOR DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-164-JOSÉ FLOR DE SOUZA</description>
+		<Placemark>
+			<name>SICAR164-José Flor de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR164-José Flor de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2531362876,-9.4420224513,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-165-EDSON FAVARETO</name>
+		<visibility>0</visibility>
+		<description>SICAR-165-EDSON FAVARETO</description>
+		<Placemark>
+			<name>SICAR165-Edson Favareto</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR165-Edson Favareto<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2544163565,-9.440698489400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-166-EDMILSON PINHEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR-166-EDMILSON PINHEIRO</description>
+		<Placemark>
+			<name>SICAR166-Edmilson Pinheiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR166-Edmilson Pinheiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.21999632680001,-9.2451008674,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-167-ROBERTO CORREIA DE QUEIROZ</name>
+		<visibility>0</visibility>
+		<description>SICAR-167-ROBERTO CORREIA DE QUEIROZ</description>
+		<Placemark>
+			<name>SICAR167-Roberto Correia e Queiroz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR167-Roberto Correia e Queiroz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2067966713,-9.3302955162,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-168-SEBASTIÃO LUIZ DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-168-SEBASTIÃO LUIZ DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR168-Sebastião Luiz de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR168-Sebastião Luiz de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20604337109999,-9.300010887999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-169-FLAVIO JANIO DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-169-FLAVIO JANIO DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR169-Flávio Jânio da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR169-Flávio Jânio da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2059068702,-9.296018736800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-170-JOSEFA FREITAS DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-170-JOSEFA FREITAS DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR170-Josefa Freitas dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR170-Josefa Freitas dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2064413663,-9.3330433411,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-171-REINALDO MONTEIRO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-171-REINALDO MONTEIRO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR171-Reinaldo Monteiro de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR171-Reinaldo Monteiro de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2051320395,-9.282833652400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-172-REINALDO MONTEIRO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-172-REINALDO MONTEIRO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR172-Reinaldo Monteiro de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR172-Reinaldo Monteiro de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2062079628,-9.2833229871,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-173-MAJORY ALANA PEREIRA COSTA DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-173-MAJORY ALANA PEREIRA COSTA DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR173-Majory Alana Pereira Costa dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR173-Majory Alana Pereira Costa dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20670847940001,-9.3321389393,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-174-SEVERINO RODRIGUES FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-174-SEVERINO RODRIGUES FERREIRA</description>
+		<Placemark>
+			<name>SICAR174-Severino Rodrigues Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR174-Severino Rodrigues Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2073899116,-9.2825327536,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-175-ORESTES MUDREY</name>
+		<visibility>0</visibility>
+		<description>SICAR-175-ORESTES MUDREY</description>
+		<Placemark>
+			<name>SICAR175-Orestes Mudrey</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR175-Orestes Mudrey<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1890137528,-9.254190022,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-176-GILBERTO SILVA ANTUNES</name>
+		<visibility>0</visibility>
+		<description>SICAR-176-GILBERTO SILVA ANTUNES</description>
+		<Placemark>
+			<name>SICAR176-Gilberto Silva Antunes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR176-Gilberto Silva Antunes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2426546534,-9.3937912743,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-177-MARCOS Miguel MUDREY</name>
+		<visibility>0</visibility>
+		<description>SICAR-177-MARCOS Miguel MUDREY</description>
+		<Placemark>
+			<name>SICAR177-Marcos Miguel Mudrey</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR177-Marcos Miguel Mudrey<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.18615769459999,-9.2589921604,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-178-FABIO JUNIOR DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-178-FABIO JUNIOR DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR178-Fábio Júnior da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR178-Fábio Júnior da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.21239645320001,-9.290109757,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-179-FÁBIO JÚNIOR DA SILVA FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-179-FÁBIO JÚNIOR DA SILVA FERREIRA</description>
+		<Placemark>
+			<name>SICAR179-Fábio Júnior da Silva Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR179-Fábio Júnior da Silva Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2088414637,-9.3072931722,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-180-NELSON MOREIRA DE BRITO</name>
+		<visibility>0</visibility>
+		<description>SICAR-180-NELSON MOREIRA DE BRITO</description>
+		<Placemark>
+			<name>SICAR180-Nelson Moreira de Brito-BH</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR180-Nelson Moreira de Brito-BH<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2063018463,-9.3526442137,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-181-NELSON MOREIRA DE BRITO</name>
+		<visibility>0</visibility>
+		<description>SICAR-181-NELSON MOREIRA DE BRITO</description>
+		<Placemark>
+			<name>SICAR181-Nelson Moreira de Brito-SJ</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR181-Nelson Moreira de Brito-SJ<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1969751279,-9.3692863115,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-182-CLAUDIONOR GOMES CAMACHO</name>
+		<visibility>0</visibility>
+		<description>SICAR-182-CLAUDIONOR GOMES CAMACHO</description>
+		<Placemark>
+			<name>SICAR182-Claudionor Gomes Camacho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR182-Claudionor Gomes Camacho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2266756942,-9.3230850176,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-183-FABIANA MACHADO DE BORBA ALBUQUERQUE</name>
+		<visibility>0</visibility>
+		<description>SICAR-183-FABIANA MACHADO DE BORBA ALBUQUERQUE</description>
+		<Placemark>
+			<name>SICAR183-Fabiana Machado de Borba Albuquerque</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR183-Fabiana Machado de Borba Albuquerque<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.29631456759999,-9.2182445147,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-184-HENRIQUE FRANCISCO PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-184-HENRIQUE FRANCISCO PEREIRA</description>
+		<Placemark>
+			<name>SICAR184-Henrique Francisco Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR184-Henrique Francisco Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2918266648,-9.217805756500001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-185-ROSANIA FRANCISCO PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-185-ROSANIA FRANCISCO PEREIRA</description>
+		<Placemark>
+			<name>SICAR185-Rosania Francisco Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR185-Rosania Francisco Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2900281537,-9.2181426815,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-186-GILBERTO VIEIRA DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-186-GILBERTO VIEIRA DA SILVA</description>
+		<Placemark>
+			<name>SICAR186-Gilberto Vieira da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR186-Gilberto Vieira da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5358946842,-9.4303582387,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-187-SÉRGIO CAMPO BRITO LTS 14 E 15</name>
+		<visibility>0</visibility>
+		<description>SICAR-187-SÉRGIO CAMPO BRITO LTS 14 E 15</description>
+		<Placemark>
+			<name>SICAR187-Sérgio Campo Brito LTS 14 e 15</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR187-Sérgio Campo Brito LTS 14 e 15<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64185675509999,-9.4296368937,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-186-CLEUZA MARIA DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-186-CLEUZA MARIA DE SOUZA</description>
+		<Placemark>
+			<name>SICAR188-Cleuza Maria de Souza Figueiredo Ribeiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR188-Cleuza Maria de Souza Figueiredo Ribeiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7170795018,-9.3512955058,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-189-OSMARINA PEREIRA ROCHA</name>
+		<visibility>0</visibility>
+		<description>SICAR-189-OSMARINA PEREIRA ROCHA</description>
+		<Placemark>
+			<name>SICAR189-Osmarina Pereira Rocha</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR189-Osmarina Pereira Rocha<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7617755119,-9.525289255300001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-190-GILMAR DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-190-GILMAR DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR190-Gilmar Pimenta dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR190-Gilmar Pimenta dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.71500708029999,-9.3165117688,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-191-EDSON PIMENTA GOMES</name>
+		<visibility>0</visibility>
+		<description>SICAR-191-EDSON PIMENTA GOMES</description>
+		<Placemark>
+			<name>SICAR191-Edson Pimenta Gomes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR191-Edson Pimenta Gomes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.715918578,-9.3179780801,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-192-MARLUCE ALMEIDA LEAL</name>
+		<visibility>0</visibility>
+		<description>SICAR-192-MARLUCE ALMEIDA LEAL</description>
+		<Placemark>
+			<name>SICAR192-Marluce Almeida Leal</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR192-Marluce Almeida Leal<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.48198422539999,-9.3472206622,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-193-EUDES BATISTA DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-193-EUDES BATISTA DE SOUZA</description>
+		<Placemark>
+			<name>SICAR193-Eudes Batista de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR193-Eudes Batista de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7161935474,-9.3926236866,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-194-JOSE PAIVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-194-JOSE PAIVA</description>
+		<Placemark>
+			<name>SICAR194-José Paiva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR194-José Paiva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7153811583,-9.3944387209,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-195-ANDERSON TOMAZ BARROS</name>
+		<visibility>0</visibility>
+		<description>SICAR-195-ANDERSON TOMAZ BARROS</description>
+		<Placemark>
+			<name>SICAR195-Anderson Tomaz de Barros</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR195-Anderson Tomaz de Barros<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7159862293,-9.4204590702,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-196-LEVY HIPÓLITO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-196-LEVY HIPÓLITO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR196-Levy Hipólito de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR196-Levy Hipólito de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7156701693,-9.312010867,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-197-GENY IPÓLITO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-197-GENY IPÓLITO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR197-Geny Ipólito de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR197-Geny Ipólito de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.63330089869999,-9.3795016086,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-198-HILDO FOSSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-198-HILDO FOSSA</description>
+		<Placemark>
+			<name>SICAR198-Hildo Fossá</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR198-Hildo Fossá<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6218369245,-9.5071122831,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-199-ZENILDA MACENTE</name>
+		<visibility>0</visibility>
+		<description>SICAR-199-ZENILDA MACENTE</description>
+		<Placemark>
+			<name>SICAR199-Zenilda Macente</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR199-Zenilda Macente<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5978846851,-9.3614979905,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-200-EDIVALDO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-200-EDIVALDO DA SILVA</description>
+		<Placemark>
+			<name>SICAR200-Edivaldo da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR200-Edivaldo da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5370681812,-9.424000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-201-NORANEIS BARBOSA SALAZAR</name>
+		<visibility>0</visibility>
+		<description>SICAR-201-NORANEIS BARBOSA SALAZAR</description>
+		<Placemark>
+			<name>SICAR201-Noraneis Barbosa Salazar</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR201-Noraneis Barbosa Salazar<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.71747861790001,-9.345254349899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-202-EVILASIO SOUZA DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR-202-EVILASIO SOUZA DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR202-Evilásio Souza dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR202-Evilásio Souza dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7171595181,-9.332664255799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-203-OZIEL MIGUEL DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-203-OZIEL MIGUEL DA SILVA</description>
+		<Placemark>
+			<name>SICAR203-Oziel Miguel da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR203-Oziel Miguel da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5360732141,-9.279375053500001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-204-LEVY HIPOLITO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-204-LEVY HIPOLITO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR204-Levy Hipólito de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR204-Levy Hipólito de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6418027739,-9.3816605097,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-205-LUIZ MANOEL DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR-205-LUIZ MANOEL DA SILVA</description>
+		<Placemark>
+			<name>SICAR205-Luiz Manoel da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR205-Luiz Manoel da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64189334669999,-9.364265512699999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-206-GILVAN MACEDO BARRETO</name>
+		<visibility>0</visibility>
+		<description>SICAR-206-GILVAN MACEDO BARRETO</description>
+		<Placemark>
+			<name>SICAR206-Gilvan Macedo Barreto</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR206-Gilvan Macedo Barreto<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.4937968641,-9.2189550246,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-207-JOAS IPOLITO DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR-207-JOAS IPOLITO DE SOUZA</description>
+		<Placemark>
+			<name>SICAR207-Joás Ipólito de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR207-Joás Ipólito de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64311093910001,-9.3530059025,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-208-JOÃO DE ANGELO</name>
+		<visibility>0</visibility>
+		<description>SICAR-208-JOÃO DE ANGELO</description>
+		<Placemark>
+			<name>SICAR208-João de Ângelo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR208-João de Ângelo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6776972931,-9.407074594299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-209-MINERVINO MOREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR-209-MINERVINO MOREIRA</description>
+		<Placemark>
+			<name>SICAR209-Minervino Moreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR209-Minervino Moreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2335416989,-9.3892266566,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-210-SERGIO TWARDOWSKI</name>
+		<visibility>0</visibility>
+		<description>SICAR-210-SERGIO TWARDOWSKI</description>
+		<Placemark>
+			<name>SICAR210-Sérgio Twardowski</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR210-Sérgio Twardowski<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2195241339,-9.236982905,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-211-DANIEL ADINAN RABEL</name>
+		<visibility>0</visibility>
+		<description>SICAR-211-DANIEL ADINAN RABEL</description>
+		<Placemark>
+			<name>SICAR211-Daniel Adinan Rabel</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR211-Daniel Adinan Rabel<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1934664466,-9.226012301200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-212-WILSON CORDEIRO RABEL</name>
+		<visibility>0</visibility>
+		<description>SICAR-212-WILSON CORDEIRO RABEL</description>
+		<Placemark>
+			<name>SICAR212-Wilson Cordeiro Rabel</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR212-Wilson Cordeiro Rabel<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1963174459,-9.2310231633,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-213-ANA MARIA MARQUES UCHOA</name>
+		<visibility>0</visibility>
+		<description>SICAR-213-ANA MARIA MARQUES UCHOA</description>
+		<Placemark>
+			<name>SICAR213-Ana Maria Marques Uchôa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR213-Ana Maria Marques Uchôa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.26205939520001,-9.1192780757,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR-214-ELISANDRA FOSSA</name>
+		<visibility>0</visibility>
+		<description>SICAR-214-ELISANDRA FOSSA</description>
+		<Placemark>
+			<name>SICAR214-Elisandra Fossá</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR214-Elisandra Fossá<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.618663314,-9.506316006400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR215-EDENILSON EUGENIO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR215-EDENILSON EUGENIO DA SILVA</description>
+		<Placemark>
+			<name>SICAR215-Edenilson Eugenio da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR215-Edenilson Eugenio da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.4431377366,-9.5048275506,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR216-SONIA MARIA DO NASCIMENTO FERREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR216-SONIA MARIA DO NASCIMENTO FERREIRA</description>
+		<Placemark>
+			<name>SICAR216-Sonia Maria do Nascimento Ferreira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR216-Sonia Maria do Nascimento Ferreira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2039285968,-9.6095912563,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR217-ERCILIO CAMPOS</name>
+		<visibility>0</visibility>
+		<description>SICAR217-ERCILIO CAMPOS</description>
+		<Placemark>
+			<name>SICAR217-Ercílio Campos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR217-Ercílio Campos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.07087065369999,-9.5196455911,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR218-VILSON APARECIDO MACHADO</name>
+		<visibility>0</visibility>
+		<description>SICAR218-VILSON APARECIDO MACHADO</description>
+		<Placemark>
+			<name>SICAR218-Vilson Aparecido Machado</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR218-Vilson Aparecido Machado<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.96992853969999,-9.6411497948,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR219-VALDECI DIAS DA CRUZ</name>
+		<visibility>0</visibility>
+		<description>SICAR219-VALDECI DIAS DA CRUZ</description>
+		<Placemark>
+			<name>SICAR219-Valdeci Dias da Cruz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR219-Valdeci Dias da Cruz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.973096463,-9.6362758177,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR220-ISAIAS SCHIMIDT</name>
+		<visibility>0</visibility>
+		<description>SICAR220-ISAIAS SCHIMIDT</description>
+		<Placemark>
+			<name>SICAR220-Isaias Schimidt</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR220-Isaias Schimidt<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9635210343,-9.668269690000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR221-MATEUS EDUARDO DE BARROS</name>
+		<visibility>0</visibility>
+		<description>SICAR221-MATEUS EDUARDO DE BARROS</description>
+		<Placemark>
+			<name>SICAR221-Mateus Eduardo de Barros</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR221-Mateus Eduardo de Barros<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9624650098,-9.700533123,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR222-ADELCIO PEREIRA DE ANDRADE</name>
+		<visibility>0</visibility>
+		<description>SICAR222-ADELCIO PEREIRA DE ANDRADE</description>
+		<Placemark>
+			<name>SICAR222-Adelcio Pereira de Andrade</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR222-Adelcio Pereira de Andrade<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9615143749,-9.668788148000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR223-DORACI SOARES DA SILVA DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR223-DORACI SOARES DA SILVA DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR223-Doraci Soares da Silva de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR223-Doraci Soares da Silva de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.225488323,-9.666228411200001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR224-JOAQUIM AMERICO DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR224-JOAQUIM AMERICO DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR224-Joaquim Américo de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR224-Joaquim Américo de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.22597120419999,-9.6663108941,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR225-ORACI GUEDES DE ARAUJO</name>
+		<visibility>0</visibility>
+		<description>SICAR225-ORACI GUEDES DE ARAUJO</description>
+		<Placemark>
+			<name>SICAR225-Oraci Guedes de Araújo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR225-Oraci Guedes de Araújo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0042015603,-8.9660165202,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR226-VALDETE MARQUES MONTEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR226-VALDETE MARQUES MONTEIRO</description>
+		<Placemark>
+			<name>SICAR226-Valdete Marques Monteiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR226-Valdete Marques Monteiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1083997787,-9.6160866999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR227-ROSILDO LISBOA DE MATOS</name>
+		<visibility>0</visibility>
+		<description>SICAR227-ROSILDO LISBOA DE MATOS</description>
+		<Placemark>
+			<name>SICAR227-Rosildo Lisboa de Matos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR227-Rosildo Lisboa de Matos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.8424965085,-9.3658810209,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR228-ANTONIO PEREIRA DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR228-ANTONIO PEREIRA DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR228-Antônio Pereira de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR228-Antônio Pereira de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9737623711,-9.627008323,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR229-JOSE ALVES MOTA</name>
+		<visibility>0</visibility>
+		<description>SICAR229-JOSE ALVES MOTA</description>
+		<Placemark>
+			<name>SICAR229-José Alves Mota</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR229-José Alves Mota<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9744378937,-9.662804056800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR230-PAULO EBELING</name>
+		<visibility>0</visibility>
+		<description>SICAR230-PAULO EBELING</description>
+		<Placemark>
+			<name>SICAR230-Paulo Ebeling</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR230-Paulo Ebeling<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0933071235,-9.4789172445,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR231-ALESSANDRA SILVA SALES-LT140</name>
+		<visibility>0</visibility>
+		<description>SICAR231-ALESSANDRA SILVA SALES-LT140</description>
+		<Placemark>
+			<name>SICAR231-Alessandra Silva Sales LT260</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR231-Alessandra Silva Sales LT260<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1381570202,-9.3999777355,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR232-ALESSANDRA SILVA SALES-LTS143-144</name>
+		<visibility>0</visibility>
+		<description>SICAR232-ALESSANDRA SILVA SALES-LTS143-144</description>
+		<Placemark>
+			<name>SICAR232-Alessandra Silva Sales LTS 143 e 144</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR232-Alessandra Silva Sales LTS 143 e 144<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1434223353,-9.3957398965,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR233-VALDELEI ANTONIO DODO</name>
+		<visibility>0</visibility>
+		<description>SICAR233-VALDELEI ANTONIO DODO</description>
+		<Placemark>
+			<name>SICAR233-Valdelei Antônio Dodô LT260R</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR233-Valdelei Antônio Dodô LT260R<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.08433762689999,-9.559871479,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR234-VALDELEI ANTONIO DODO LT477R</name>
+		<visibility>0</visibility>
+		<description>SICAR234-VALDELEI ANTONIO DODO LT477R</description>
+		<Placemark>
+			<name>SICAR234-Valdelei Antônio Dodô LT477R</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR234-Valdelei Antônio Dodô LT477R<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.04526143199999,-9.483618939199999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR235-FRANCISCO GERLAN DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR235-FRANCISCO GERLAN DA SILVA</description>
+		<Placemark>
+			<name>SICAR235-Francisco Gerlan da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR235-Francisco Gerlan da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9636270456,-9.6663889935,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR236-JOVACI TRASPADINI</name>
+		<visibility>0</visibility>
+		<description>SICAR236-JOVACI TRASPADINI</description>
+		<Placemark>
+			<name>SICAR236-Jovaci Traspadini</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR236-Jovaci Traspadini<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.96860826509999,-9.6617466396,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR237-ADEVANIR ALVES DE JESUS</name>
+		<visibility>0</visibility>
+		<description>SICAR237-ADEVANIR ALVES DE JESUS</description>
+		<Placemark>
+			<name>SICAR237-Adevanir Alves de Jesus</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR237-Adevanir Alves de Jesus<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9702530213,-9.6603408015,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR238-CLOVIS ROBERTO ZIMERMAN</name>
+		<visibility>0</visibility>
+		<description>SICAR238-CLOVIS ROBERTO ZIMERMAN</description>
+		<Placemark>
+			<name>SICAR238-Clovis Roberto Zimermann</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR238-Clovis Roberto Zimermann<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.088313552,-9.650572115999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR239-FIRMINO LIMA DE MACEDO</name>
+		<visibility>0</visibility>
+		<description>SICAR239-FIRMINO LIMA DE MACEDO</description>
+		<Placemark>
+			<name>SICAR239-Firmino Lima de Macedo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR239-Firmino Lima de Macedo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.084889908,-9.656161063600001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR240-NIVALDO VIEIRA DA FONSECA</name>
+		<visibility>0</visibility>
+		<description>SICAR240-NIVALDO VIEIRA DA FONSECA</description>
+		<Placemark>
+			<name>SICAR240-Nivaldo Vieira da Fonseca</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR240-Nivaldo Vieira da Fonseca<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9594710033,-9.678277467899999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR241-JOEL MONTANHA</name>
+		<visibility>0</visibility>
+		<description>SICAR241-JOEL MONTANHA</description>
+		<Placemark>
+			<name>SICAR241-Joel Montanha</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR241-Joel Montanha<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.02106652009999,-9.4553092814,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR242-ANTONIO SEBASTIAO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR242-ANTONIO SEBASTIAO DA SILVA</description>
+		<Placemark>
+			<name>SICAR242-Antônio Sebastião da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR242-Antônio Sebastião da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0793984948,-8.9495925079,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR243-CLAUDIO BORGES</name>
+		<visibility>0</visibility>
+		<description>SICAR243-CLAUDIO BORGES</description>
+		<Placemark>
+			<name>SICAR243-Cláudio Borges</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR243-Cláudio Borges<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.979808545,-9.6811664616,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR244-MARCIA APARECIDA VAZ PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR244-MARCIA APARECIDA VAZ PEREIRA</description>
+		<Placemark>
+			<name>SICAR244-Márcia Aparecida Vaz Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR244-Márcia Aparecida Vaz Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0479975401,-9.194324508799999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR245-FRANCISCA APARECIDA DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR245-FRANCISCA APARECIDA DE SOUZA</description>
+		<Placemark>
+			<name>SICAR245-Francisca Aparecida de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR245-Francisca Aparecida de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.05133898490001,-9.1909014304,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR246-EDSON VAZ PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR246-EDSON VAZ PEREIRA</description>
+		<Placemark>
+			<name>SICAR246-Edson Vaz Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR246-Edson Vaz Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0529971913,-9.1894198955,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR247-HELIO VAZ PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR247-HELIO VAZ PEREIRA</description>
+		<Placemark>
+			<name>SICAR247-Hélio Vaz Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR247-Hélio Vaz Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0553525268,-9.1891189114,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR248-WANDERLEY SILVERIO DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR248-WANDERLEY SILVERIO DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR248-Wanderley Silvério dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR248-Wanderley Silvério dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.8950571102,-9.4241327705,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR249-EDILSON CAETANO DOS SANTOS</name>
+		<visibility>0</visibility>
+		<description>SICAR249-EDILSON CAETANO DOS SANTOS</description>
+		<Placemark>
+			<name>SICAR249-Edilson Caetano dos Santos</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR249-Edilson Caetano dos Santos<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2130897768,-9.6326600313,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR250-SONIA BORGES DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR250-SONIA BORGES DE SOUZA</description>
+		<Placemark>
+			<name>SICAR250-Sônia Borges de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR250-Sônia Borges de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0593894787,-9.125678866099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR251-LUIZ CARLOS GOMES DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR251-LUIZ CARLOS GOMES DA SILVA</description>
+		<Placemark>
+			<name>SICAR251-Luiz Carlos Gomes da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR251-Luiz Carlos Gomes da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0606247274,-9.12404358,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR252-JOSÉ MARTINS SOARES FILHO</name>
+		<visibility>0</visibility>
+		<description>SICAR252-JOSÉ MARTINS SOARES FILHO</description>
+		<Placemark>
+			<name>SICAR252-José Martins Soares Filho LT389</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR252-José Martins Soares Filho LT389<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9728833249,-9.661995273400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR253-JOSE MARTINS SOARES FILHO</name>
+		<visibility>0</visibility>
+		<description>SICAR253-JOSE MARTINS SOARES FILHO</description>
+		<Placemark>
+			<name>SICAR253-José Martins Soares Filho LTS 631 E 677</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR253-José Martins Soares Filho LTS 631 E 677<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0442042209,-9.63911004,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR254-AMARO OSÓRIO PACÍFICO</name>
+		<visibility>0</visibility>
+		<description>SICAR254-AMARO OSÓRIO PACÍFICO</description>
+		<Placemark>
+			<name>SICAR254-Amaro Osório Pacífico</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR254-Amaro Osório Pacífico<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.19081673289999,-9.190927982,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR255-MARIA DOS SANTOS LOPES MARTINS</name>
+		<visibility>0</visibility>
+		<description>SICAR255-MARIA DOS SANTOS LOPES MARTINS</description>
+		<Placemark>
+			<name>SICAR255-Maria dos Santos Lopes Martins</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR255-Maria dos Santos Lopes Martins<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2777168264,-9.1034976969,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR256-INCAIO DE LOIOLA MARTINS FILHO</name>
+		<visibility>0</visibility>
+		<description>SICAR256-INCAIO DE LOIOLA MARTINS FILHO</description>
+		<Placemark>
+			<name>SICAR256-Inácio de Loiola Martins Filho</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR256-Inácio de Loiola Martins Filho<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.29447181919999,-9.1268656583,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR257-SEBASTIÃO ALVES DE SOUZA</name>
+		<visibility>0</visibility>
+		<description>SICAR257-SEBASTIÃO ALVES DE SOUZA</description>
+		<Placemark>
+			<name>SICAR257-Sebastião Alves de Souza</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR257-Sebastião Alves de Souza<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2073195131,-9.298842779999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR258-ADELINO DE SOUSA MENDES</name>
+		<visibility>0</visibility>
+		<description>SICAR258-ADELINO DE SOUSA MENDES</description>
+		<Placemark>
+			<name>SICAR258-Adelino de Sousa Mendes</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR258-Adelino de Sousa Mendes<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.16640941559999,-9.2046341218,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR259-MARLI TWARDOWSKI HECKLER</name>
+		<visibility>0</visibility>
+		<description>SICAR259-MARLI TWARDOWSKI HECKLER</description>
+		<Placemark>
+			<name>SICAR259-Marli Twardowski Heckler</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR259-Marli Twardowski Heckler<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2074954874,-9.303880678300001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR260-APARECIDO ZENKE</name>
+		<visibility>0</visibility>
+		<description>SICAR260-APARECIDO ZENKE</description>
+		<Placemark>
+			<name>SICAR260-Aparecido Zenke</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR260-Aparecido Zenke<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1734483514,-9.209135188199999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR261-JOSÉ GERALDO CORDEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR261-JOSÉ GERALDO CORDEIRO</description>
+		<Placemark>
+			<name>SICAR261-José Geraldo Cordeiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR261-José Geraldo Cordeiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2870637463,-9.149881846,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR262-VANDERSON COSTA CORDEIRO</name>
+		<visibility>0</visibility>
+		<description>SICAR262-VANDERSON COSTA CORDEIRO</description>
+		<Placemark>
+			<name>SICAR262-Vanderson Costa Cordeiro</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR262-Vanderson Costa Cordeiro<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2829037184,-9.160693781699999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR263-JOAQUIM CARTAXO DE LACERDA</name>
+		<visibility>0</visibility>
+		<description>SICAR263-JOAQUIM CARTAXO DE LACERDA</description>
+		<Placemark>
+			<name>SICAR263-Joaquim Cartaxo de Lacerda</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR263-Joaquim Cartaxo de Lacerda<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2483332878,-9.250426532400001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR264-GIRSON LELES AGUIAR</name>
+		<visibility>0</visibility>
+		<description>SICAR264-GIRSON LELES AGUIAR</description>
+		<Placemark>
+			<name>SICAR264-Girson Leles Aguiar</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR264-Girson Leles Aguiar<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.098951249,-9.3217186557,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR265-IRACI LELES DE AGUIAR</name>
+		<visibility>0</visibility>
+		<description>SICAR265-IRACI LELES DE AGUIAR</description>
+		<Placemark>
+			<name>SICAR265-Iraci Leles de Aguiar</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR265-Iraci Leles de Aguiar<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.09740704089999,-9.302724743600001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR266-MARCONDES INÁCIO DA SILVA</name>
+		<visibility>0</visibility>
+		<description>SICAR266-MARCONDES INÁCIO DA SILVA</description>
+		<Placemark>
+			<name>SICAR266-Marcondes Inácio da Silva</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR266-Marcondes Inácio da Silva<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3136858184,-9.1182659723,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR267-MARLENE MARIA DOS ANJOS AGUILERA</name>
+		<visibility>0</visibility>
+		<description>SICAR267-MARLENE MARIA DOS ANJOS AGUILERA</description>
+		<Placemark>
+			<name>SICAR267-Marlene Maria dos Anjos Aguilera</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR267-Marlene Maria dos Anjos Aguilera<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.3015941859,-9.219379950900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR268-ANTÔNIO BARBINO</name>
+		<visibility>0</visibility>
+		<description>SICAR268-ANTÔNIO BARBINO</description>
+		<Placemark>
+			<name>SICAR268-Antônio Barbino</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR268-Antônio Barbino<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2401953401,-9.1984962367,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR269-EMILIA CORREIRA DE QUEIROZ</name>
+		<visibility>0</visibility>
+		<description>SICAR269-EMILIA CORREIRA DE QUEIROZ</description>
+		<Placemark>
+			<name>SICAR269-Emília Correira de Queiroz</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR269-Emília Correira de Queiroz<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2103809812,-9.311006231,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR270-LUIZ OTÁVIO CABRAL</name>
+		<visibility>0</visibility>
+		<description>SICAR270-LUIZ OTÁVIO CABRAL</description>
+		<Placemark>
+			<name>SICAR270-Luiz Otávio Cabral</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR270-Luiz Otávio Cabral<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.09097578839999,-9.3217518952,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR271-MARIVALDO GOMES DO CARMO</name>
+		<visibility>0</visibility>
+		<description>SICAR271-MARIVALDO GOMES DO CARMO</description>
+		<Placemark>
+			<name>SICAR271-Marivaldo Gomes do Carmo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR271-Marivaldo Gomes do Carmo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.32890941769999,-9.1748488253,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR272-JOSÉ VIANA</name>
+		<visibility>0</visibility>
+		<description>SICAR272-JOSÉ VIANA</description>
+		<Placemark>
+			<name>SICAR272-José Viana</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR272-José Viana<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2079749445,-9.3050282773,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR273-VALDEMIR RODRIGUES DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR273-VALDEMIR RODRIGUES DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR273-Valdemir Rodrigues de Oliveira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR273-Valdemir Rodrigues de Oliveira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2324501793,-9.0907696666,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR274-CELSO MOREIRA DE BRITO</name>
+		<visibility>0</visibility>
+		<description>SICAR274-CELSO MOREIRA DE BRITO</description>
+		<Placemark>
+			<name>SICAR274-Celso Moreira de Brito</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR274-Celso Moreira de Brito<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.208390964,-9.306156745199999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR275-CARLOS RENATO DE AZEVEDO</name>
+		<visibility>0</visibility>
+		<description>SICAR275-CARLOS RENATO DE AZEVEDO</description>
+		<Placemark>
+			<name>SICAR275-Carlos Renato de Azevedo</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR275-Carlos Renato de Azevedo<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.16024511429999,-9.2025478902,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR276-MARIANA SCHROR LEBER PEREIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR276-MARIANA SCHROR LEBER PEREIRA</description>
+		<Placemark>
+			<name>SICAR276-Mariana Schror Leber Pereira</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR276-Mariana Schror Leber Pereira<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2762302031,-9.101995558500001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR277-GILSON DE FREITAS</name>
+		<visibility>0</visibility>
+		<description>SICAR277-GILSON DE FREITAS</description>
+		<Placemark>
+			<name>SICAR277-Gilson de Freitas</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR277-Gilson de Freitas<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.2760879497,-9.1009557023,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR278-EDIVAN SANTOS DE OLIVEIRA - JATOBA</name>
+		<visibility>0</visibility>
+		<description>SICAR278-EDIVAN SANTOS DE OLIVEIRA - JATOBA</description>
+		<Placemark>
+			<name>SICAR278-Edivan Santos de Oliveira - Jatoba</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR278-Edivan Santos de Oliveira - Jatoba<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5285477403,-9.3594719758,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>SICAR279-EDIVAN SANTOS DE OLIVEIRA</name>
+		<visibility>0</visibility>
+		<description>SICAR279-EDIVAN SANTOS DE OLIVEIRA</description>
+		<Placemark>
+			<name>SICAR279-Edivan Santos de Oliveira - Agua boa</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SICAR279-Edivan Santos de Oliveira - Agua boa<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5236171417,-9.360880252099999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

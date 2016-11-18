@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>cars_qa.KMZ</name>
+	<visibility>0</visibility>
+	<Style id="point1">
+		<IconStyle>
+			<Icon>
+				<href>kml_symbol_dot_0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>CARS - 07/07/2014 A 11/07/2014</name>
+		<visibility>0</visibility>
+		<description>CARS - 07/07/2014 A 11/07/2014</description>
+		<Placemark>
+			<name>ANA MARIA DOS SANTOS (CAR-PD46365) LT28 JOSÉ PAULO DOS SANTOS</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ANA MARIA DOS SANTOS (CAR-PD46365) LT28 JOSÉ PAULO DOS SANTOS<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.677419992,-9.466419998399999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUDIMAR JOSÉ OLIVEIRA (CAR-PD46979) LT11</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUDIMAR JOSÉ OLIVEIRA (CAR-PD46979) LT11<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4503465873,-9.062488026100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IDENI ALVES DA SILVA PEREIRA (CAR-PD47072) LOTES 02 e 01/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = IDENI ALVES DA SILVA PEREIRA (CAR-PD47072) LOTES 02 e 01/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1434897928,-9.2549791185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOIZÉS ALVES DA SILVA (CAR-PD47018) LT 03/C</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MOIZÉS ALVES DA SILVA (CAR-PD47018) LT 03/C<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1568466541,-9.276898426400001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROSÂNGELA MARIA DE SOUZA (CAR-PD47020) LT 03/B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ROSÂNGELA MARIA DE SOUZA (CAR-PD47020) LT 03/B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15673661499999,-9.275143759900001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO ALVES DA SILVA (CAR-PD47019) LT 03/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PEDRO ALVES DA SILVA (CAR-PD47019) LT 03/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1575101021,-9.2741665688,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEBASTIANA ALVES DE SOUZA DE OLIVEIRA (CAR-PD47055) LT 03/R</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SEBASTIANA ALVES DE SOUZA DE OLIVEIRA (CAR-PD47055) LT 03/R<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1579921626,-9.273044786,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CARS - 17/07/2014 A 04/08/2014</name>
+		<visibility>0</visibility>
+		<description>CARS - 17/07/2014 A 04/08/2014</description>
+		<Placemark>
+			<name>JESSE ALVES DA SILVA (CAR-PD47017) LT 01/B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JESSE ALVES DA SILVA (CAR-PD47017) LT 01/B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1364116818,-9.2683593417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUTE ALVES DA SILVA CARVALHO (CAR-PD47021) LT 01/R</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = RUTE ALVES DA SILVA CARVALHO (CAR-PD47021) LT 01/R<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1395714211,-9.269298796999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASSIS RAMOS (CAR-PD47255) RAD37 - FRANCISCO TEIXEIRA - LT59</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ASSIS RAMOS (CAR-PD47255) RAD37 - FRANCISCO TEIXEIRA - LT59<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1326772648,-9.288738970100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REGINALDO SANTOS OLIVEIRA (CAR-PD46981) LT 13</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = REGINALDO SANTOS OLIVEIRA (CAR-PD46981) LT 13<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4524667935,-9.0625396795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADILSON ALVES RODRIGUES (CAR-PD46322) LT 24/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ADILSON ALVES RODRIGUES (CAR-PD46322) LT 24/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6797502277,-9.458616536199999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMARILDO BARBOSA (CAR-PD46327) LOTE 24/B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AMARILDO BARBOSA (CAR-PD46327) LOTE 24/B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6797060936,-9.457087937200001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADALTON ALVES RODRIGUES (CAR-PD46330) LOTE 23</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ADALTON ALVES RODRIGUES (CAR-PD46330) LOTE 23<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6798033293,-9.4602989036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTÔNIO PINTO ROSA - RAD31 (CAR-PD46336) LOTE 29</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ANTÔNIO PINTO ROSA - RAD31 (CAR-PD46336) LOTE 29<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6780234645,-9.464032746299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GILMAR ROSA (CAR-PD46337) LOTE 18</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = GILMAR ROSA (CAR-PD46337) LOTE 18<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67933758190001,-9.4713692182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUCILENE CÂNDIDA DA SILVA (CAR-PD46353) LOTE 41 (SAULO FERREIRA DA SILVA)</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUCILENE CÂNDIDA DA SILVA (CAR-PD46353) LOTE 41 (SAULO FERREIRA DA SILVA)<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6799690363,-9.4189284326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO FRANCISCO DA SILVA (CAR-PD46355) LOTE 35</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PEDRO FRANCISCO DA SILVA (CAR-PD46355) LOTE 35<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6792553903,-9.432232600300001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ ALVES BARBOSA (CAR-PD46357) LOTE 25</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ ALVES BARBOSA (CAR-PD46357) LOTE 25<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.679207353,-9.454618271499999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASINCRITO PASCOAL DOS SANTOS (CAR-PD46361) LOTE 21</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ASINCRITO PASCOAL DOS SANTOS (CAR-PD46361) LOTE 21<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6778389391,-9.4860745498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALCEMAR DA SILVA RODRIGUES (CAR-PD46375) LOTE 34/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ALCEMAR DA SILVA RODRIGUES (CAR-PD46375) LOTE 34/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6783972509,-9.453921086899999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ ROBERTO BISPO DOS SANTOS (RAD45) (CAR-PD46392) LOTES 33 E 34/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ ROBERTO BISPO DOS SANTOS (RAD45) (CAR-PD46392) LOTES 33 E 34/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6795788116,-9.437108008599999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CLEBER DA SILVA RODRIGUES (CAR-PD46377) LOTE 33</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = CLEBER DA SILVA RODRIGUES (CAR-PD46377) LOTE 33<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67814139419999,-9.4547710569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARNALDO LOPES PALMA (CAR-PD46378) LOTE 22</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ARNALDO LOPES PALMA (CAR-PD46378) LOTE 22<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6779702472,-9.4820407293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDINÉIA DE ARAÚJO LIMA DA SILVA (CAR-PD47086) LOTE 20</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = EDINÉIA DE ARAÚJO LIMA DA SILVA (CAR-PD47086) LOTE 20<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.682266839,-9.465981229500001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARCILENE BISPO DOS SANTOS (CAR-PD47092) LOTES 42 E 43</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MARCILENE BISPO DOS SANTOS (CAR-PD47092) LOTES 42 E 43<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6797358698,-9.414957576799999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BALBINO BISPO DOS SANTOS (CAR-PD47082) LOTE 32</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = BALBINO BISPO DOS SANTOS (CAR-PD47082) LOTE 32<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67906620979999,-9.4398028728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROOSEVELT DELANIO NATES (CAR-PD47105) LOTES 24 E 25</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ROOSEVELT DELANIO NATES (CAR-PD47105) LOTES 24 E 25<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7171874666,-9.3394926721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MÁRIO ROMANHA (CAR-PD43455) LOTES 13 E 14</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MÁRIO ROMANHA (CAR-PD43455) LOTES 13 E 14<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6320367859,-9.4902080526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISABELA CLARA DE OLIVEIRA (CAR-PD43453) LOTE 67</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ISABELA CLARA DE OLIVEIRA (CAR-PD43453) LOTE 67<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6009375779,-9.4869359982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUZIA ZIVIANI (CAR-PD43460) LOTE 66</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUZIA ZIVIANI (CAR-PD43460) LOTE 66<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5905983955,-9.4783859326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NATAL PASIAN (CAR-PD43459) LOTE 41</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NATAL PASIAN (CAR-PD43459) LOTE 41<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6181226807,-9.4346679364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADEMIR ZACANTI (CAR-PD43451) LOTE 70</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ADEMIR ZACANTI (CAR-PD43451) LOTE 70<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.596778711,-9.4908385144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AGNALDO PEREIRA DA SILVA (CAR-PD50608) LOTE 69</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AGNALDO PEREIRA DA SILVA (CAR-PD50608) LOTE 69<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.99368054629999,-9.483952431900001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DEIDIMAR MENDONÇA DOS SANTOS (CAR-PD46380) LOTE 45</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = DEIDIMAR MENDONÇA DOS SANTOS (CAR-PD46380) LOTE 45<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5550953905,-9.2718715418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIRLENE MACETE MENDONÇA (CAR-PD46391) LOTE 46</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = GIRLENE MACETE MENDONÇA (CAR-PD46391) LOTE 46<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5506067595,-9.2647387176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAURO LUCINDO LOPES (CAR-PD38391) LOTE 28</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LAURO LUCINDO LOPES (CAR-PD38391) LOTE 28<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5675535418,-9.247104287299999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CARS - 07/08/2014 A 09/08/2014</name>
+		<visibility>0</visibility>
+		<description>CARS - 07/08/2014 A 09/08/2014</description>
+		<Placemark>
+			<name>AILTON SANTOS DE OLIVEIRA (CAR-PD51011) LOTE 71/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AILTON SANTOS DE OLIVEIRA (CAR-PD51011) LOTE 71/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6801947826,-9.3515180125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DORICO ALVES BARBOSA (CAR-PD51024) LOTES 34/B E 35</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = DORICO ALVES BARBOSA (CAR-PD51024) LOTES 34/B E 35<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6784359645,-9.451470001000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOLSIMERE PALAVICINI (CAR-PD51017) LOTE 194</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = DOLSIMERE PALAVICINI (CAR-PD51017) LOTE 194<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.56189576789999,-9.367473144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELVIS LUIZ ALVES (CAR-PD51035) LOTES 144, 146 ,148</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ELVIS LUIZ ALVES (CAR-PD51035) LOTES 144, 146 ,148<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64400078569999,-9.164925606300001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EURANDI RIBEIRO DA SILVA (CAR-PD51038) LOTE 15</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = EURANDI RIBEIRO DA SILVA (CAR-PD51038) LOTE 15<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.0121746748,-9.4812750023,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CARS - 12/08/2014 A 29/09/2014</name>
+		<visibility>0</visibility>
+		<description>CARS - 12/08/2014 A 29/09/2014</description>
+		<Placemark>
+			<name>JOSÉ GONÇALVES DE PAIVA (CAR-PD51509) LOTE 94</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ GONÇALVES DE PAIVA (CAR-PD51509) LOTE 94<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5472501569,-9.312083379400001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NATAL CRAVO DE SANTANA (CAR-PD51078) LOTE 01</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NATAL CRAVO DE SANTANA (CAR-PD51078) LOTE 01<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6424659836,-9.4747976805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NELSON BENEVENUTTI (CAR-PD51091) LOTES 17 E 39</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NELSON BENEVENUTTI (CAR-PD51091) LOTES 17 E 39<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.67278304609999,-9.504891884999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROBSON GODOY DE LIMA (CAR-PD51100) LOTE 110</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ROBSON GODOY DE LIMA (CAR-PD51100) LOTE 110<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6429797492,-9.1208671248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RODOLFO PEREIRA DE SOUZA (CAR-PD51105) LOTE 101</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = RODOLFO PEREIRA DE SOUZA (CAR-PD51105) LOTE 101<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6044478859,-9.4286471754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARTINHA FRANCISCA DE PAULA (CAR-PD51622) LOTE 04 - RAD46</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MARTINHA FRANCISCA DE PAULA (CAR-PD51622) LOTE 04 - RAD46<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1564307176,-9.2834290403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUTE ALVES DA SILVA CARVALHO (CAR-PD51624) LOTE 06D - RAD29</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = RUTE ALVES DA SILVA CARVALHO (CAR-PD51624) LOTE 06D - RAD29<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1535945007,-9.293994732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JUCELINO SILVA DOS SANTOS (CAR-PD51464) RAD47 LOTE 20/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JUCELINO SILVA DOS SANTOS (CAR-PD51464) RAD47 LOTE 20/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1839620505,-9.172742133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADALTO PAIVA (CAR-PD52181) LOTE 127</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ADALTO PAIVA (CAR-PD52181) LOTE 127<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7145376391,-9.4061507111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERON DA SILVA SANTOS (CAR-PD52203) SÍTIO TABOCA RAD02</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = HERON DA SILVA SANTOS (CAR-PD52203) SÍTIO TABOCA RAD02<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.20442609020001,-9.0964006497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUDIMAR JOSÉ DE OLIVEIRA (CAR-PD52233) LOTE 18</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUDIMAR JOSÉ DE OLIVEIRA (CAR-PD52233) LOTE 18<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.44663214740001,-9.060936873299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUDIMAR JOSÉ DE OLIVEIRA (CAR-PD52245) LOTE 32</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUDIMAR JOSÉ DE OLIVEIRA (CAR-PD52245) LOTE 32<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4572892624,-9.0695976602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABELICE GOMES DOS SANTOS (CAR-PD52291) LOTE 50</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ABELICE GOMES DOS SANTOS (CAR-PD52291) LOTE 50<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6202234261,-9.479314710900001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTENOR MOLINARI (CAR-PD52353) LOTES 47 E 48</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ANTENOR MOLINARI (CAR-PD52353) LOTES 47 E 48<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6127782719,-9.464988870899999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GERALDO GOTARDO (CAR-PD52429) LOTES 51 E 58</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = GERALDO GOTARDO (CAR-PD52429) LOTES 51 E 58<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6123676036,-9.4818838346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO ROMANHA (CAR-PD52518) LOTE 03</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO ROMANHA (CAR-PD52518) LOTE 03<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6317963521,-9.493545281399999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ ARCIDES CREVILATE (CAR-PD52689) LOTE 62</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ ARCIDES CREVILATE (CAR-PD52689) LOTE 62<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.60669329970001,-9.4966835887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ CARLOS DE SOUZA (CAR-PD52753) LOTE 61</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ CARLOS DE SOUZA (CAR-PD52753) LOTE 61<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.61120005660001,-9.499329662599999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO BATISTA MARINHUK (CAR-PD52768) LOTE 59</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO BATISTA MARINHUK (CAR-PD52768) LOTE 59<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.50142261929999,-9.0833872741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO PAULO SANTOS OLIVEIRA (CAR-PD52793) LOTE 34</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO PAULO SANTOS OLIVEIRA (CAR-PD52793) LOTE 34<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4604228944,-9.072270981799999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ SILVA CRUZ (CAR-PD52841) LOTE 50</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ SILVA CRUZ (CAR-PD52841) LOTE 50<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4746225146,-9.0824824405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SILVIO COSME DOS SANTOS (CAR-PD52857) LOTE 02</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SILVIO COSME DOS SANTOS (CAR-PD52857) LOTE 02<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.5023288681,-9.080708791999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALDELEI CANDIDO CARDOSO (CAR-PD52883) LOTE 42</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VALDELEI CANDIDO CARDOSO (CAR-PD52883) LOTE 42<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4673995202,-9.0771915257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAULO ANDRÉ MARINHUK (CAR-PD52912) LOTES 91 E 91A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PAULO ANDRÉ MARINHUK (CAR-PD52912) LOTES 91 E 91A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.51094778940001,-9.094607590200001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ ELIAS CELESTINO RAD14 (CAR-PD52269) LOTE 154</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ ELIAS CELESTINO RAD14 (CAR-PD52269) LOTE 154<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7157607996,-9.3469444604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MABELINO ADOLFO DEMENEGHI MUNARI (CAR-PD44987) LOTE 268</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MABELINO ADOLFO DEMENEGHI MUNARI (CAR-PD44987) LOTE 268<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.48435793340001,-9.348926959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OCTACÍLIO MACEDO (CAR-PD52270) LOTES 137 E 138</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = OCTACÍLIO MACEDO (CAR-PD52270) LOTES 137 E 138<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.71490312190001,-9.382471754599999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REGIVALDO GONÇALVES DOS SANTOS (CARPD51802) RAD16 - JAIME - LOTES 15 A 18</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = REGIVALDO GONÇALVES DOS SANTOS (CARPD51802) RAD16 - JAIME - LOTES 15 A 18<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7171484896,-9.3200553202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PASCOAL DEMENEGHI MUNARI (CAR-PD44980) LT 47</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PASCOAL DEMENEGHI MUNARI (CAR-PD44980) LT 47<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.4955568947,-9.3314146347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TELMA BARBOZA PEREIRA (CAR-PD52271) RAD13 ERIVELTON - LT 141</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = TELMA BARBOZA PEREIRA (CAR-PD52271) RAD13 ERIVELTON - LT 141<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7157375687,-9.3755350679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMILTO SILVÉRIO (CAR-PD53027) RAD-19 LOTE-20R</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AMILTO SILVÉRIO (CAR-PD53027) RAD-19 LOTE-20R<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.17076966599999,-9.1853030119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CIRILO ROSA DE PAULA (CAR-PD53072) LOTE 95</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = CIRILO ROSA DE PAULA (CAR-PD53072) LOTE 95<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.59519723810001,-9.425317274399999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CIRILO ROSA DE PAULA (CAR-PD53076) LOTE 129</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = CIRILO ROSA DE PAULA (CAR-PD53076) LOTE 129<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5883858745,-9.4236813451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DANIEL FERREIRA DOS SANTOS (CAR-PD53341) LOTE 149</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = DANIEL FERREIRA DOS SANTOS (CAR-PD53341) LOTE 149<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5759134526,-9.2678899998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GERESAEL FUMAGALI DE SOUZA (CAR-PD53316) LOTES 53, 54 E 55</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = GERESAEL FUMAGALI DE SOUZA (CAR-PD53316) LOTES 53, 54 E 55<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6405969912,-9.119191478499999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IRINEU DA SILVA (CAR-PD53086) LOTE 143</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = IRINEU DA SILVA (CAR-PD53086) LOTE 143<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.57074547340001,-9.4359700454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IRIO ABEL (CAR-PD53111) LOTE 108</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = IRIO ABEL (CAR-PD53111) LOTE 108<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5946180799,-9.4064313443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO CARLOS SCHILIVE (CAR-PD53099) LOTE 29</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO CARLOS SCHILIVE (CAR-PD53099) LOTE 29<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6231858075,-9.444396428099999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO MARIA DOS SANTOS (CAR-PD53287) LOTE 78</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO MARIA DOS SANTOS (CAR-PD53287) LOTE 78<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5859616114,-9.4705749714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ FLOR DOS REIS (CAR-PD53306) LOTE 136</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ FLOR DOS REIS (CAR-PD53306) LOTE 136<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7159742942,-9.3868141163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ SILVA DOS ANJOS (CAR-PD53338) LOTE 17</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ SILVA DOS ANJOS (CAR-PD53338) LOTE 17<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6037220202,-9.3379190449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEBASTIÃO DOS SANTOS (CAR-PD53283) LOTE 109</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SEBASTIÃO DOS SANTOS (CAR-PD53283) LOTE 109<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.59366476020001,-9.403825382999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALDIVIO PESSOA DIAS (CAR-PD53280) LOTES 165, 167 E 169 UNIFICADOS</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VALDIVIO PESSOA DIAS (CAR-PD53280) LOTES 165, 167 E 169 UNIFICADOS<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6752179024,-9.1880645896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALMIR LEAL RESENDE (CAR-PD53060) LOTE 266</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VALMIR LEAL RESENDE (CAR-PD53060) LOTE 266<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.4850835586,-9.3508997277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALEX SEZOSKI DA ROCHA (CAR-PD53435) LOTE 05-B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ALEX SEZOSKI DA ROCHA (CAR-PD53435) LOTE 05-B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6869868928,-9.504895849700001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO DELFINO DA SILVA FILHO (CAR-PD54506) LOTE 01</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO DELFINO DA SILVA FILHO (CAR-PD54506) LOTE 01<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.0532052417,-9.5234653259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NILVA TRINDADE APOLINÁRIO GEREMIA (CAR-PD54508) LOTE 36</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NILVA TRINDADE APOLINÁRIO GEREMIA (CAR-PD54508) LOTE 36<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.56485439170001,-9.2580541763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VITOR BRUNO BORGES SARAIVA (CAR-PD54427) LOTES 116 AO 119 UNIFIC</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VITOR BRUNO BORGES SARAIVA (CAR-PD54427) LOTES 116 AO 119 UNIFIC<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6416972862,-9.2649589911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MELQUIDES FERREIRA DOS SANTOS (CAR-PD46819) LOTE 108/C</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MELQUIDES FERREIRA DOS SANTOS (CAR-PD46819) LOTE 108/C<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.610223373,-9.346681521400001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MILTON JULIÃO DE OLIVEIRA (CAR-PD53014) RAD-17 LOTE 08</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MILTON JULIÃO DE OLIVEIRA (CAR-PD53014) RAD-17 LOTE 08<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.09184165180001,-9.330684073000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTÔNIO DIAS DE SOUZA (CAR-PD46749) LOTES 96, 97 E 98 UNIFICADOS</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ANTÔNIO DIAS DE SOUZA (CAR-PD46749) LOTES 96, 97 E 98 UNIFICADOS<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6770923385,-9.308670037900001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>CARS - 06/08 A XXX (QUINTAIS AMAZÔNICOS)</name>
+		<visibility>0</visibility>
+		<description>CARS - 06/08 A XXX (QUINTAIS AMAZÔNICOS)</description>
+		<Placemark>
+			<name>MILTON FERREIRA DE SOUZA (CAR-PD50978) LOTE 976</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MILTON FERREIRA DE SOUZA (CAR-PD50978) LOTE 976<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1933002852,-9.5837280995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>APARECIDO FELIS DA SILVA (CAR-PD56907) LOTE 241</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = APARECIDO FELIS DA SILVA (CAR-PD56907) LOTE 241<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-61.9738263278,-9.3097685795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AILTON LEAL DA SILVA (CAR-PD56926) LOTE 195</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AILTON LEAL DA SILVA (CAR-PD56926) LOTE 195<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1329196213,-9.1960643717,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JACINTO NATALINO PINTO (CAR-PD56955) LOTE 979</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JACINTO NATALINO PINTO (CAR-PD56955) LOTE 979<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.195248184,-9.583324509500001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>2-CARS  03-11 A 29-11-2014 (QUINTAIS AMAZÔNICOS)</name>
+		<visibility>0</visibility>
+		<description>2-CARS  03-11 A 29-11-2014 (QUINTAIS AMAZÔNICOS)</description>
+		<Placemark>
+			<name>MANOEL FRANCISCO CAETANO (CAR-PD57092) LOTE 566</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MANOEL FRANCISCO CAETANO (CAR-PD57092) LOTE 566<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1001876463,-9.4562388677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOACIR FRANCO DE SOUZA (CAR-PD57328) LOTE 1129</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MOACIR FRANCO DE SOUZA (CAR-PD57328) LOTE 1129<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2378187544,-9.591733166999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ TEIXEIRA DA SILVA (CAR-PD57449) LOTE 185</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ TEIXEIRA DA SILVA (CAR-PD57449) LOTE 185<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2925787045,-9.702985718100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDNILSON OLIVEIRA DA SILVA (CAR-PD57470) LOTE 177</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = EDNILSON OLIVEIRA DA SILVA (CAR-PD57470) LOTE 177<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2880387511,-9.695238443299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JORGE DOS REIS DE OLIVEIRA (CAR-PD57504) LOTE 1021</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JORGE DOS REIS DE OLIVEIRA (CAR-PD57504) LOTE 1021<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.219350005,-9.6057836174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JORGE DOS REIS DE OLIVEIRA (CAR-PD57524) LOTE 981</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JORGE DOS REIS DE OLIVEIRA (CAR-PD57524) LOTE 981<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1967118281,-9.586087447200001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSELINA MEDEIRO EVARISTO (CAR-PD57684) LOTE 264</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSELINA MEDEIRO EVARISTO (CAR-PD57684) LOTE 264<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.073137431,-9.54884667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOACIR DA CRUZ PAULINO (CAR-PD58208) LOTE 51</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MOACIR DA CRUZ PAULINO (CAR-PD58208) LOTE 51<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6064338808,-9.066963577799999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADEILSON TORRES DA SILVA (CAR-PD58903) LOTE 02</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ADEILSON TORRES DA SILVA (CAR-PD58903) LOTE 02<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.432724576,-9.0424931058,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMARILDO RIOS DADALT (CAR-PD58913) LOTE 02</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = AMARILDO RIOS DADALT (CAR-PD58913) LOTE 02<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6422738957,-9.4755481933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ENIO JOSÉ FERREIRA DE LIMA (CAR-PD58981) LOTE 03 ÁREA 07-2</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ENIO JOSÉ FERREIRA DE LIMA (CAR-PD58981) LOTE 03 ÁREA 07-2<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1880787723,-9.1946830725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ISMAEL MATEUS (CAR-PD59060) LOTE 196</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ISMAEL MATEUS (CAR-PD59060) LOTE 196<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5249851006,-9.2660171351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ BOM FIM SOARES BRITO (CAR-PD59091) LOTE 04</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ BOM FIM SOARES BRITO (CAR-PD59091) LOTE 04<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4387594064,-9.044394391299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CÍCERA GOMES DOS SANTOS VIEIRA (CAR-PD59095) LOTE 75</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = CÍCERA GOMES DOS SANTOS VIEIRA (CAR-PD59095) LOTE 75<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.99368068500001,-9.476372848000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOURIVAL GLICERIO DA CRUZ (CAR-PD59387) LOTE 189</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LOURIVAL GLICERIO DA CRUZ (CAR-PD59387) LOTE 189<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5257977782,-9.2710289545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEVALCIR ADRIANO DA SILVA (CAR-PD62475) LOTES 16, 17 E 18 UNIFICADOS</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NEVALCIR ADRIANO DA SILVA (CAR-PD62475) LOTES 16, 17 E 18 UNIFICADOS<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.15251547510001,-9.2199986013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SETH SOUZA ALBUQUERQUE (CAR-PD59954) LOTE 18</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SETH SOUZA ALBUQUERQUE (CAR-PD59954) LOTE 18<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.4130923788,-9.1009182171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GENI DA SILVA RAMOS (CAR-PD59976) LOTE 125</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = GENI DA SILVA RAMOS (CAR-PD59976) LOTE 125<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5869716132,-9.4180539143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JUAREZ LÚCIO MENDES (CAR-PD60135) LOTE 181</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JUAREZ LÚCIO MENDES (CAR-PD60135) LOTE 181<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.55532216779999,-9.2797678411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROSÂNGELA DE SOUZA FILGUEIRA (CAR-PD60180) LOTE 44</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ROSÂNGELA DE SOUZA FILGUEIRA (CAR-PD60180) LOTE 44<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.556806747,-9.279380762000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ DIVAIR PIDHGURNI (CAR-PD60277) LOTE 85</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ DIVAIR PIDHGURNI (CAR-PD60277) LOTE 85<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.60731853959999,-9.2320542803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUELI PEDROSO PIDHGURNI (CAR-PD60281) LOTE 86</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SUELI PEDROSO PIDHGURNI (CAR-PD60281) LOTE 86<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6052064147,-9.2321152801,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>3-CARS 09-02 A 20-03-2015 (QUINTAIS AMAZÔNICOS)</name>
+		<visibility>0</visibility>
+		<description>3-CARS 09-02 A 20-03-2015 (QUINTAIS AMAZÔNICOS)</description>
+		<Placemark>
+			<name>JOSÉ LOURENÇO DOS SANTOS (CAR-PD62571) LOTE 56</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ LOURENÇO DOS SANTOS (CAR-PD62571) LOTE 56<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1102227043,-9.286195931,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIA GORETE SANTOS (CAR-PD62901) LOTE 06/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MARIA GORETE SANTOS (CAR-PD62901) LOTE 06/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-63.1544499225,-9.292872793800001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>4-CARS 26-03 A 04-05-2015 (QUINTAIS AMAZONICOS)</name>
+		<visibility>0</visibility>
+		<description>4-CARS 26-03 A 04-05-2015 (QUINTAIS AMAZONICOS)</description>
+		<Placemark>
+			<name>SEBASTIÃO GERALDO MOREIRA (CAR-PD65360) LT938</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = SEBASTIÃO GERALDO MOREIRA (CAR-PD65360) LT938<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1527394313,-9.592060226499999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALDECI DE ASSIS PEREIRA (CAR-PD65430) LT694</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VALDECI DE ASSIS PEREIRA (CAR-PD65430) LT694<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.20910255480001,-9.4562711138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAULO DA SILVA SOUSA (CAR-PD65769) LT1130</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PAULO DA SILVA SOUSA (CAR-PD65769) LT1130<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.24101290570001,-9.591631790299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FERNANDO JORGE CORDEIRO (CAR-PD65774) LT658</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = FERNANDO JORGE CORDEIRO (CAR-PD65774) LT658<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.23193373499999,-9.4338110364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOEL RODRIGUES DE SOUZA (CAR-PD65957) LT668</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOEL RODRIGUES DE SOUZA (CAR-PD65957) LT668<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2317117319,-9.4353480487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ILTO LUIZ CASANOVA (CAR-PD65964) LT702</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ILTO LUIZ CASANOVA (CAR-PD65964) LT702<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2192642219,-9.4781623784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LINDALVA DA SILVA DE OLIVEIRA (CAR-PD65972) LT700</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LINDALVA DA SILVA DE OLIVEIRA (CAR-PD65972) LT700<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2190189702,-9.4738206871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO FURTADO (CAR-PD66101) LT35</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO FURTADO (CAR-PD66101) LT35<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2838173544,-9.5599508997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOSÉ DUARTE DA ROSA (CAR-PD66115) LT01</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOSÉ DUARTE DA ROSA (CAR-PD66115) LT01<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2625575709,-9.5735720639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDUARDO VALDECIR DE OLIVEIRA (CAR-PD66146) LT40</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = EDUARDO VALDECIR DE OLIVEIRA (CAR-PD66146) LT40<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2705399349,-9.496315939700001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROBERTO AUGUSTO DA SILVA (CAR-PD66168) LT731</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ROBERTO AUGUSTO DA SILVA (CAR-PD66168) LT731<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2275942857,-9.5008000376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LINDONEZIA LIBANIO DA SILVEIRA (CAR-PD66192) LT643</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LINDONEZIA LIBANIO DA SILVEIRA (CAR-PD66192) LT643<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1975018459,-9.4584696268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO GALDINO DA SILVA (CAR-PD66704) LT635</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO GALDINO DA SILVA (CAR-PD66704) LT635<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1786012742,-9.450611925700001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DANIEL CIRILO DE SOUZA (CAR-PD66746) LT693</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = DANIEL CIRILO DE SOUZA (CAR-PD66746) LT693<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2159582537,-9.4496843236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALCY ALVES LEOPOLDINO (CAR-PD66757) LT732</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ALCY ALVES LEOPOLDINO (CAR-PD66757) LT732<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2286479928,-9.506237842299999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JUVENILSON SILVA AMORIM (CAR-PD67642) LT140/A</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JUVENILSON SILVA AMORIM (CAR-PD67642) LT140/A<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6431863602,-9.3498004233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NAIR RAMOS DE SOUSA (CAR-PD67688) LT140/B</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NAIR RAMOS DE SOUSA (CAR-PD67688) LT140/B<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64303007949999,-9.3512383813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVANILDO ALVES DA SILVA (CAR-PD67734) LT145</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = EVANILDO ALVES DA SILVA (CAR-PD67734) LT145<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6428014741,-9.361078834300001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIA ELENA DA SILVA (CAR-PD67879) LT122</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = MARIA ELENA DA SILVA (CAR-PD67879) LT122<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.60579861170001,-9.3780527224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO RODRIGUES DE SOUZA (CAR-PD67890) LT21</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PEDRO RODRIGUES DE SOUZA (CAR-PD67890) LT21<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.58329262700001,-9.325703434699999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO RODRIGUES DE SOUZA (CAR-PD67916) LT23</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PEDRO RODRIGUES DE SOUZA (CAR-PD67916) LT23<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.5764444272,-9.3260571399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUCEMAR DA SILVA (CAR-PD68726) LT567</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = LUCEMAR DA SILVA (CAR-PD68726) LT567<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.0974490127,-9.4590587382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTÔNIO SOARES DE SOUZA (CAR-PD68760) LT97</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ANTÔNIO SOARES DE SOUZA (CAR-PD68760) LT97<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6040095918,-9.4295873285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NILSON BARBOSA MAIPIRA (CAR-PD68864) LT37</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = NILSON BARBOSA MAIPIRA (CAR-PD68864) LT37<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.64054438670001,-9.3773661246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CARLOS DA SILVA RAMOS (CAR-PD68902) LT14</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = CARLOS DA SILVA RAMOS (CAR-PD68902) LT14<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.3010881288,-9.459306094500001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JUVERCINO GOLOMBIESKI (CAR-PD68933) LT713-REMANESCENTE</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JUVERCINO GOLOMBIESKI (CAR-PD68933) LT713-REMANESCENTE<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1923716511,-9.470974762999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUMÃO JOSÉ DA SILVA (CAR-PD63533) LT695</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = RUMÃO JOSÉ DA SILVA (CAR-PD63533) LT695<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.21656394,-9.4597697982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO NUNES DE CASTILHOS (PD69069) LT130</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = PEDRO NUNES DE CASTILHOS (PD69069) LT130<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6186099492,-9.3973500676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALDECI RODRIGUES DE CAMPOS (CAR-PD69652) LT716</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = VALDECI RODRIGUES DE CAMPOS (CAR-PD69652) LT716<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.1949961492,-9.478351659199999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOÃO NISVAL DA SILVA (CAR-PD72114) LT34</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOÃO NISVAL DA SILVA (CAR-PD72114) LT34<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.2771722942,-9.4962121339,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>5-CARS RETIFICADOS-CORRIGIDOS</name>
+		<visibility>0</visibility>
+		<description>5-CARS RETIFICADOS-CORRIGIDOS</description>
+		<Placemark>
+			<name>ELSIO DE BESSA E SILVA (CAR-PD65945) LOTES 87, 88 E 89 - RETIFICADO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = ELSIO DE BESSA E SILVA (CAR-PD65945) LOTES 87, 88 E 89 - RETIFICADO<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.6408483774,-9.1951503207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOCELINO LANGA (CAR-PD68246) LT165 REFEITO</name>
+			<visibility>0</visibility>
+			<description><![CDATA[Unknown Point Feature<BR><BR><B>NAME</B> = JOCELINO LANGA (CAR-PD68246) LT165 REFEITO<BR><B>LAYER</B> = Unknown Point Feature]]></description>
+			<styleUrl>#point1</styleUrl>
+			<Point>
+				<coordinates>-62.7145251078,-9.3210843372,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
