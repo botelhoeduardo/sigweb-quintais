@@ -311,9 +311,9 @@ html, body {
     font-size: 12px;
 }
 
-.ol-popup img {
+/*.ol-popup img {
 	float: left;
-}
+}*/
 
 .ol-popup:after, .ol-popup:before {
     top: 100%;
